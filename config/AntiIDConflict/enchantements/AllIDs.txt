@@ -1,0 +1,256 @@
+0 is Occupied by: enchantment.protect.all (net.minecraft.enchantment.EnchantmentProtection)
+1 is Occupied by: enchantment.protect.fire (net.minecraft.enchantment.EnchantmentProtection)
+2 is Occupied by: enchantment.protect.fall (net.minecraft.enchantment.EnchantmentProtection)
+3 is Occupied by: enchantment.protect.explosion (net.minecraft.enchantment.EnchantmentProtection)
+4 is Occupied by: enchantment.protect.projectile (net.minecraft.enchantment.EnchantmentProtection)
+5 is Occupied by: enchantment.oxygen (net.minecraft.enchantment.EnchantmentOxygen)
+6 is Occupied by: enchantment.waterWorker (net.minecraft.enchantment.EnchantmentWaterWorker)
+7 is Occupied by: enchantment.thorns (net.minecraft.enchantment.EnchantmentThorns)
+8 is Occupied by: gadomancy.enchantment.revealer (makeo.gadomancy.common.enchantments.EnchantmentRevealer)
+9 is Occupied by: enchantment.wg.backstab (witchinggadgets.common.magic.WGEnchantBackstab)
+10 is Occupied by: enchantment.wg.gemstoneBrittle (witchinggadgets.common.magic.WGEnchantGemBrittle)
+11 is Occupied by: enchantment.wg.invisibleGear (witchinggadgets.common.magic.WGEnchantInvisibleGear)
+12 is Occupied by: enchantment.wg.gemstonePotency (witchinggadgets.common.magic.WGEnchantGemPotency)
+13 is Occupied by: enchantment.wg.rideProtect (witchinggadgets.common.magic.WGEnchantRideProtect)
+14 is Occupied by: enchantment.wg.stealth (witchinggadgets.common.magic.WGEnchantStealth)
+15 is Occupied by: enchantment.wg.unveiling (witchinggadgets.common.magic.WGEnchantUnveiling)
+16 is Occupied by: enchantment.damage.all (net.minecraft.enchantment.EnchantmentDamage)
+17 is Occupied by: enchantment.damage.undead (net.minecraft.enchantment.EnchantmentDamage)
+18 is Occupied by: enchantment.damage.arthropods (net.minecraft.enchantment.EnchantmentDamage)
+19 is Occupied by: enchantment.knockback (net.minecraft.enchantment.EnchantmentKnockback)
+20 is Occupied by: enchantment.fire (net.minecraft.enchantment.EnchantmentFireAspect)
+21 is Occupied by: enchantment.lootBonus (net.minecraft.enchantment.EnchantmentLootBonus)
+22 is Occupied by: enchantment.greedy (fox.spiteful.forbidden.enchantments.EnchantmentGreedy)
+23 is Occupied by: enchantment.consuming (fox.spiteful.forbidden.enchantments.EnchantmentConsuming)
+24 is Occupied by: enchantment.corrupting (fox.spiteful.forbidden.enchantments.EnchantmentCorrupting)
+25 is Occupied by: enchantment.educational (fox.spiteful.forbidden.enchantments.EnchantmentEducational)
+26 is Occupied by: enchantment.cluster (fox.spiteful.forbidden.enchantments.EnchantmentCluster)
+27 is Occupied by: enchantment.impact (fox.spiteful.forbidden.enchantments.EnchantmentImpact)
+28 is Occupied by: enchantment.voidtouched (fox.spiteful.forbidden.enchantments.EnchantmentVoid)
+29 is Occupied by: enchantment.wrath (fox.spiteful.forbidden.enchantments.EnchantmentWrath)
+30 is Occupied by: enchantment.binding (flaxbeard.thaumicexploration.enchantment.EnchantmentBinding)
+31 is Occupied by: enchantment.disarm (flaxbeard.thaumicexploration.enchantment.EnchantmentDisarm)
+32 is Occupied by: enchantment.digging (net.minecraft.enchantment.EnchantmentDigging)
+33 is Occupied by: enchantment.untouching (net.minecraft.enchantment.EnchantmentUntouching)
+34 is Occupied by: enchantment.durability (net.minecraft.enchantment.EnchantmentDurability)
+35 is Occupied by: enchantment.lootBonusDigger (net.minecraft.enchantment.EnchantmentLootBonus)
+36 is Occupied by: enchantment.frost_walker (ganymedes01.etfuturum.enchantment.FrostWalker)
+37 is Occupied by: enchantment.mending (ganymedes01.etfuturum.enchantment.Mending)
+38 is Occupied by: enchantment.nightVision (flaxbeard.thaumicexploration.enchantment.EnchantmentNightVision)
+39 is Occupied by: enchantment.elderKnowledge (tb.common.enchantment.EnchantmentElderKnowledge)
+40 is Occupied by: enchantment.eldritchBane (tb.common.enchantment.EnchantmentEldritchBane)
+41 is Occupied by: enchantment.magicTouch (tb.common.enchantment.EnchantmentMagicTouch)
+42 is Occupied by: enchantment.tainted (tb.common.enchantment.EnchantmentTainted)
+43 is Occupied by: enchantment.vaporising (tb.common.enchantment.EnchantmentVaporising)
+44 is Occupied by: enchant.cofh.holding (cofh.core.enchantment.EnchantmentHolding)
+45 is Occupied by: enchantment.xpboost (com.enderio.core.common.enchant.EnchantXPBoost)
+46 is Occupied by: enchantment.autosmelt (com.enderio.core.common.enchant.EnchantAutoSmelt)
+47 is Occupied by: enchant.cofh.multishot (cofh.core.enchantment.EnchantmentMultishot)
+48 is Occupied by: enchantment.arrowDamage (net.minecraft.enchantment.EnchantmentArrowDamage)
+49 is Occupied by: enchantment.arrowKnockback (net.minecraft.enchantment.EnchantmentArrowKnockback)
+50 is Occupied by: enchantment.arrowFire (net.minecraft.enchantment.EnchantmentArrowFire)
+51 is Occupied by: enchantment.arrowInfinite (net.minecraft.enchantment.EnchantmentArrowInfinite)
+52 is Occupied by: enchantment.Blue (pixlepix.auracascade.enchant.KaleidoscopeEnchantment)
+53 is Occupied by: enchantment.Green (pixlepix.auracascade.enchant.KaleidoscopeEnchantment)
+54 is Occupied by: enchantment.Orange (pixlepix.auracascade.enchant.KaleidoscopeEnchantment)
+55 is Occupied by: enchantment.Red (pixlepix.auracascade.enchant.KaleidoscopeEnchantment)
+56 is Occupied by: enchantment.Violet (pixlepix.auracascade.enchant.KaleidoscopeEnchantment)
+57 is Occupied by: enchantment.Yellow (pixlepix.auracascade.enchant.KaleidoscopeEnchantment)
+58 is Occupied by: enchantment.bash.damage (mods.battlegear2.enchantments.BaseEnchantment)
+59 is Occupied by: enchantment.bash.power (mods.battlegear2.enchantments.BaseEnchantment)
+60 is Occupied by: enchantment.bash.weightless (mods.battlegear2.enchantments.BaseEnchantment)
+61 is Occupied by: enchantment.lootBonusFishing (net.minecraft.enchantment.EnchantmentLootBonus)
+62 is Occupied by: enchantment.fishingSpeed (net.minecraft.enchantment.EnchantmentFishingSpeed)
+63 is Occupied by: enchantment.bow.charge (mods.battlegear2.enchantments.BaseEnchantment)
+64 is Occupied by: enchantment.bow.loot (mods.battlegear2.enchantments.BaseEnchantment)
+65 is Occupied by: enchantment.shield.recover (mods.battlegear2.enchantments.BaseEnchantment)
+66 is Occupied by: enchantment.shield.usage (mods.battlegear2.enchantments.BaseEnchantment)
+67 is Occupied by: enchantment.haste (thaumcraft.common.lib.enchantment.EnchantmentHaste)
+68 is Occupied by: enchantment.repair (thaumcraft.common.lib.enchantment.EnchantmentRepair)
+69 is Occupied by: enchantment.ttinkerer:ascentBoost (thaumic.tinkerer.common.enchantment.EnchantmentAscentBoost)
+70 is Occupied by: enchantment.ttinkerer:autoSmelt (thaumic.tinkerer.common.enchantment.EnchantmentAutoSmelt)
+71 is Occupied by: enchantment.ttinkerer:desintegrate (thaumic.tinkerer.common.enchantment.EnchantmentDesintegrate)
+72 is Occupied by: enchantment.ttinkerer:dispersedStrike (thaumic.tinkerer.common.enchantment.EnchantmentDispersedStrikes)
+73 is Occupied by: enchantment.ttinkerer:finalStrike (thaumic.tinkerer.common.enchantment.EnchantmentFinalStrike)
+74 is Occupied by: enchantment.ttinkerer:focusedStrike (thaumic.tinkerer.common.enchantment.EnchantmentFocusedStrikes)
+75 is Occupied by: enchantment.ttinkerer:pounce (thaumic.tinkerer.common.enchantment.EnchantmentPounce)
+76 is Occupied by: enchantment.ttinkerer:quickDraw (thaumic.tinkerer.common.enchantment.EnchantmentQuickDraw)
+77 is Occupied by: enchantment.ttinkerer:shatter (thaumic.tinkerer.common.enchantment.EnchantmentShatter)
+78 is Occupied by: enchantment.ttinkerer:shockwave (thaumic.tinkerer.common.enchantment.EnchantmentShockwave)
+79 is Occupied by: enchantment.ttinkerer:slowFall (thaumic.tinkerer.common.enchantment.EnchantmentSlowFall)
+80 is Occupied by: enchantment.ttinkerer:tunnel (thaumic.tinkerer.common.enchantment.EnchantmentTunnel)
+81 is Occupied by: enchantment.ttinkerer:valiance (thaumic.tinkerer.common.enchantment.EnchantmentValiance)
+82 is Occupied by: enchantment.ttinkerer:vampirism (thaumic.tinkerer.common.enchantment.EnchantmentVampirism)
+83 is Occupied by: enchantment.railcraft.crowbar.destruction (mods.railcraft.common.items.enchantment.EnchantmentDestruction)
+84 is Occupied by: enchantment.railcraft.crowbar.implosion (mods.railcraft.common.items.enchantment.EnchantmentDamageRailcraft)
+85 is Occupied by: enchantment.railcraft.crowbar.wrecking (mods.railcraft.common.items.enchantment.EnchantmentDamageRailcraft)
+86 is Occupied by: Eternal Compass (jds.bibliocraft.EnchantmentDeathCompass)
+87 is Occupied by: Reading (jds.bibliocraft.EnchantmentReading)
+88 is Occupied by: enchantment.enchantPow (com.teamdman_9201.nova.enchantments.EnchantmentPow)
+89 is Occupied by: enchantment.NaturalAbsorption.absorb (toast.naturalAbsorption.EnchantmentAbsorption)
+90 is Occupied by: enchantment.magicresist (am2.enchantments.EnchantMagicResist)
+91 is Occupied by: enchantment.soulbound (am2.enchantments.EnchantmentSoulbound)
+92 is Occupied by: enchantment.health (mariculture.magic.enchantments.EnchantmentHealth)
+93 is Occupied by: enchantment.blink (mariculture.magic.enchantments.EnchantmentBlink)
+94 is Occupied by: enchantment.elemental (mariculture.magic.enchantments.EnchantmentElemental)
+95 is Occupied by: enchantment.fall (mariculture.magic.enchantments.EnchantmentFallDamage)
+96 is Occupied by: enchantment.jump (mariculture.magic.enchantments.EnchantmentJump)
+97 is Occupied by: enchantment.hungry (mariculture.magic.enchantments.EnchantmentNeverHungry)
+98 is Occupied by: enchantment.glide (mariculture.magic.enchantments.EnchantmentGlide)
+99 is Occupied by: enchantment.resurrection (mariculture.magic.enchantments.EnchantmentResurrection)
+100 is Occupied by: enchantment.restore (mariculture.magic.enchantments.EnchantmentRestore)
+101 is Occupied by: enchantment.speed (mariculture.magic.enchantments.EnchantmentSpeed)
+102 is Occupied by: enchantment.spiderman (mariculture.magic.enchantments.EnchantmentSpider)
+103 is Occupied by: enchantment.stepUp (mariculture.magic.enchantments.EnchantmentStepUp)
+104 is Occupied by: enchantment.flight (mariculture.magic.enchantments.EnchantmentFlight)
+105 is Occupied by: enchantment.oneRing (mariculture.magic.enchantments.EnchantmentOneRing)
+106 is Occupied by: enchantment.openblocks.explosive (openblocks.enchantments.EnchantmentExplosive)
+107 is Occupied by: enchantment.openblocks.flimflam (openblocks.enchantments.EnchantmentFlimFlam)
+108 is Occupied by: enchantment.openblocks.laststand (openblocks.enchantments.EnchantmentLastStand)
+109 is Avaible
+110 is Avaible
+111 is Avaible
+112 is Avaible
+113 is Avaible
+114 is Avaible
+115 is Avaible
+116 is Avaible
+117 is Avaible
+118 is Avaible
+119 is Avaible
+120 is Avaible
+121 is Avaible
+122 is Avaible
+123 is Avaible
+124 is Avaible
+125 is Avaible
+126 is Avaible
+127 is Avaible
+128 is Avaible
+129 is Avaible
+130 is Avaible
+131 is Avaible
+132 is Avaible
+133 is Avaible
+134 is Avaible
+135 is Avaible
+136 is Avaible
+137 is Avaible
+138 is Avaible
+139 is Avaible
+140 is Avaible
+141 is Avaible
+142 is Avaible
+143 is Avaible
+144 is Avaible
+145 is Avaible
+146 is Avaible
+147 is Avaible
+148 is Avaible
+149 is Avaible
+150 is Avaible
+151 is Avaible
+152 is Avaible
+153 is Avaible
+154 is Avaible
+155 is Avaible
+156 is Avaible
+157 is Avaible
+158 is Avaible
+159 is Avaible
+160 is Avaible
+161 is Avaible
+162 is Avaible
+163 is Avaible
+164 is Avaible
+165 is Avaible
+166 is Avaible
+167 is Avaible
+168 is Avaible
+169 is Avaible
+170 is Avaible
+171 is Avaible
+172 is Avaible
+173 is Avaible
+174 is Avaible
+175 is Avaible
+176 is Avaible
+177 is Avaible
+178 is Avaible
+179 is Avaible
+180 is Avaible
+181 is Avaible
+182 is Avaible
+183 is Avaible
+184 is Avaible
+185 is Avaible
+186 is Avaible
+187 is Avaible
+188 is Avaible
+189 is Avaible
+190 is Avaible
+191 is Avaible
+192 is Avaible
+193 is Avaible
+194 is Avaible
+195 is Avaible
+196 is Avaible
+197 is Avaible
+198 is Avaible
+199 is Avaible
+200 is Avaible
+201 is Avaible
+202 is Avaible
+203 is Avaible
+204 is Avaible
+205 is Avaible
+206 is Avaible
+207 is Avaible
+208 is Avaible
+209 is Avaible
+210 is Avaible
+211 is Avaible
+212 is Avaible
+213 is Avaible
+214 is Avaible
+215 is Avaible
+216 is Avaible
+217 is Avaible
+218 is Avaible
+219 is Avaible
+220 is Avaible
+221 is Avaible
+222 is Avaible
+223 is Avaible
+224 is Avaible
+225 is Avaible
+226 is Avaible
+227 is Avaible
+228 is Avaible
+229 is Avaible
+230 is Avaible
+231 is Avaible
+232 is Avaible
+233 is Avaible
+234 is Avaible
+235 is Avaible
+236 is Avaible
+237 is Avaible
+238 is Avaible
+239 is Avaible
+240 is Avaible
+241 is Avaible
+242 is Avaible
+243 is Avaible
+244 is Avaible
+245 is Avaible
+246 is Avaible
+247 is Avaible
+248 is Avaible
+249 is Avaible
+250 is Avaible
+251 is Avaible
+252 is Avaible
+253 is Avaible
+254 is Avaible
+255 is Avaible

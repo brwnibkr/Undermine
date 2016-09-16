@@ -1,0 +1,21 @@
+{
+    "limestone": {
+        "template": "underfluid",
+        "block":  "Botania:prismarine",
+        "clusterSize": 16,
+        "numClusters": 4,
+        "minHeight": 128,
+        "maxHeight": 256,
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    }
+}

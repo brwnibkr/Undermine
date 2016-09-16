@@ -1,0 +1,40 @@
+{
+    "limestone": {
+        "template": "uniform",
+        "block":  "chisel:limestone",
+        "clusterSize": 16,
+        "numClusters": 4,
+        "minHeight": 128,
+        "maxHeight": 256,
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "marble": {
+        "template": "uniform",
+        "block": "chisel:marble",
+        "clusterSize": 16,
+        "numClusters": 4,
+        "minHeight": 128,
+        "maxHeight": 256,
+        "retrogen": true,
+        "biomeRestriction": false,
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    }
+}

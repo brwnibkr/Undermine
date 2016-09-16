@@ -1,0 +1,18 @@
+Total amount of free biome ids: E:\ashle\Documents\Curse\Minecraft\Instances\Magic\config\AntiIDConflict\biomes\avaibleIDs.txt
+List of free biome ids:
+141
+142
+143
+144
+145
+146
+147
+148
+248
+249
+250
+251
+252
+253
+254
+255

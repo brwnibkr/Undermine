@@ -1,0 +1,44 @@
+{
+    "rutile": {
+        "template": "uniform",
+        "block": [
+            {"name": "Mariculture:rocks", "metadata": 3, "weight": 40},
+            {"name": "Mariculture:sands", "metadata": 1, "weight": 10},
+            {"name": "minecraft:sand", "metadata": 0, "weight": 50}
+        ],
+        "clusterSize": 16,
+        "numClusters": 4,
+        "minHeight": 64,
+        "maxHeight": 128,
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "bauxite": {
+        "template": "uniform",
+        "block": {"name": "Mariculture:rocks", "metadata": 2},
+        "clusterSize": 16,
+        "numClusters": 4,
+        "minHeight": 48,
+        "maxHeight": 80,
+        "retrogen": true,
+        "biomeRestriction": false,
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    }
+}

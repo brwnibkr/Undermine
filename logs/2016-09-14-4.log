@@ -1,0 +1,480 @@
+[17:05:55] [main/INFO]: Setting user: AshleyW_
+[17:06:04] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:09:26] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:OpenEye, FMLFileResourcePack:Mine & Blade Battlegear 2 - Bullseye, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:Achievement Extreme, FMLFileResourcePack:Adventure Backpack, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:AgriCraft, FMLFileResourcePack:Alt F4, FMLFileResourcePack:Ancient Trees, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Anti Id Conflict, FMLFileResourcePack:Another One Bites The Dust, FMLFileResourcePack:Another One Bites The Dust: Berry Bushes, FMLFileResourcePack:AppleCore, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Armor Overlay, FMLFileResourcePack:Aura Cascade, FMLFileResourcePack:Automagy, FMLFileResourcePack:Avaritia, FMLFileResourcePack:Avaritiaddons, FMLFileResourcePack:Backpack, FMLFileResourcePack:BD Lib, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:Big Doors, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Arsenal, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:Catwalks Mod, FMLFileResourcePack:Legacy Catwalk Compat, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisel Tones, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Colorblind Helper, FMLFileResourcePack:Companions, FMLFileResourcePack:Cooking for Blockheads, FMLFileResourcePack:CraftHeraldry, FMLFileResourcePack:Crafting Tweaks, FMLFileResourcePack:PTRModelLib, FMLFileResourcePack:Decocraft, FMLFileResourcePack:debug, FMLFileResourcePack:Dense Ores, FMLFileResourcePack:Description Tags, FMLFileResourcePack:Doors, FMLFileResourcePack:DummyCore, FMLFileResourcePack:Enchiridion, FMLFileResourcePack:Enchiridion 2, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderTanks, FMLFileResourcePack:Equivalence, FMLFileResourcePack:Equivalent Exchange 3, FMLFileResourcePack:Et Futurum, FMLFileResourcePack:EXCore, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Extra Carts, FMLFileResourcePack:Extra Cells 2, FMLFileResourcePack:ExtraTiC, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Floocraft, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Forestry Fermenter Addon, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:Flaxbeard's Steam Power, FMLFileResourcePack:Funky Locomotion, FMLFileResourcePack:Gadomancy, FMLFileResourcePack:Garden Containers, FMLFileResourcePack:Garden Core, FMLFileResourcePack:Garden Stuff, FMLFileResourcePack:Garden Trees, FMLFileResourcePack:Gear Swap, FMLFileResourcePack:Guide-API, FMLFileResourcePack:Hardcore Ender Expansion, FMLFileResourcePack:Highlands, FMLFileResourcePack:HolographicVictoryMonument, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Iguana Tinker Tweaks, FMLFileResourcePack:Inventory Centerer, FMLFileResourcePack:Inventory Pets, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Kore Sample, FMLFileResourcePack:Laundarray, FMLFileResourcePack:LunatriusCore, FMLFileResourcePack:Magical Crops: Core, FMLFileResourcePack:Magical Crops: Armoury, FMLFileResourcePack:Magical Crops: Decorative, FMLFileResourcePack:Malisis Advert, FMLFileResourcePack:MalisisCore, FMLFileResourcePack:Malisis' Doors, FMLFileResourcePack:Mantle, FMLFileResourcePack:Marine Technlogy, FMLFileResourcePack:Mariculture, FMLFileResourcePack:Metallurgy 4, FMLFileResourcePack:Metallurgy Chisel, FMLFileResourcePack:Metallurgy Core, FMLFileResourcePack:MineChess, FMLFileResourcePack:Minestones, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:MmmMmmMmmMmm, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:More Backpacks, FMLFileResourcePack:More Chisels, FMLFileResourcePack:Morpheus, FMLFileResourcePack:Natura, FMLFileResourcePack:Natural Absorption, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:Nether Portal Fix, FMLFileResourcePack:NotEnoughIDs, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:NotEnoughThaumcraftTabs, FMLFileResourcePack:NOVA, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:Pam's BoneCraft, FMLFileResourcePack:Pam's Clayspawn, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Placeable Gunpowder, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Railcraft Cosmetic Additions, FMLFileResourcePack:Random Things, FMLFileResourcePack:Reliquary, FMLFileResourcePack:libsandstone, FMLFileResourcePack:Remote IO, FMLFileResourcePack:Runes of Wizardry, FMLFileResourcePack:Sanguimancy, FMLFileResourcePack:Sanguine Utilities, FMLFileResourcePack:Schematica, FMLFileResourcePack:ShetiPhian-Core, FMLFileResourcePack:The Spice of Life, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Super Crafting Frame, FMLFileResourcePack:TCBotaniaExoflame, FMLFileResourcePack:TC Inventory Scanning, FMLFileResourcePack:TC Node Tracker, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Bases, FMLFileResourcePack:Thaumic Energistics, FMLFileResourcePack:Thaumic Exploration, FMLFileResourcePack:Thaumic Horizons, FMLFileResourcePack:Thaumic Infusion, FMLFileResourcePack:thaumicsanity, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Thermal Singularities, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Tinkers' Defense, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:TrashSlot, FMLFileResourcePack:Traveller's Gear, FMLFileResourcePack:Thaumic Warden, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Waila, FMLFileResourcePack:WAILA-features, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:Waterproof, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Waystones, FMLFileResourcePack:Witchery, FMLFileResourcePack:Witching Gadgets, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:WorldEdit CUI Forge Edition, FMLFileResourcePack:Ztones, FMLFileResourcePack:Baubles, FMLFileResourcePack:Red Gear Core
+[17:09:26] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:09:26] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:09:26] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:09:26] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:09:26] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:09:26] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:09:26] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:09:27] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:09:27] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:09:27] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:09:27] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:09:27] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:09:27] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:09:27] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: OceanMonument.txt in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\Et Futurum-1.5.5.jar
+[17:09:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\NOVA-2015-10-09-universal.jar
+[17:09:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\NOVA-2015-10-09-universal.jar
+[17:17:46] [Sound Library Loader/INFO]: Sound engine started
+[17:17:57] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[17:18:03] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[17:24:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:OpenEye, FMLFileResourcePack:Mine & Blade Battlegear 2 - Bullseye, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:Achievement Extreme, FMLFileResourcePack:Adventure Backpack, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:AgriCraft, FMLFileResourcePack:Alt F4, FMLFileResourcePack:Ancient Trees, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Anti Id Conflict, FMLFileResourcePack:Another One Bites The Dust, FMLFileResourcePack:Another One Bites The Dust: Berry Bushes, FMLFileResourcePack:AppleCore, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Armor Overlay, FMLFileResourcePack:Aura Cascade, FMLFileResourcePack:Automagy, FMLFileResourcePack:Avaritia, FMLFileResourcePack:Avaritiaddons, FMLFileResourcePack:Backpack, FMLFileResourcePack:BD Lib, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:Big Doors, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Arsenal, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:Catwalks Mod, FMLFileResourcePack:Legacy Catwalk Compat, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisel Tones, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Colorblind Helper, FMLFileResourcePack:Companions, FMLFileResourcePack:Cooking for Blockheads, FMLFileResourcePack:CraftHeraldry, FMLFileResourcePack:Crafting Tweaks, FMLFileResourcePack:PTRModelLib, FMLFileResourcePack:Decocraft, FMLFileResourcePack:debug, FMLFileResourcePack:Dense Ores, FMLFileResourcePack:Description Tags, FMLFileResourcePack:Doors, FMLFileResourcePack:DummyCore, FMLFileResourcePack:Enchiridion, FMLFileResourcePack:Enchiridion 2, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderTanks, FMLFileResourcePack:Equivalence, FMLFileResourcePack:Equivalent Exchange 3, FMLFileResourcePack:Et Futurum, FMLFileResourcePack:EXCore, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Extra Carts, FMLFileResourcePack:Extra Cells 2, FMLFileResourcePack:ExtraTiC, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Floocraft, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Forestry Fermenter Addon, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:Flaxbeard's Steam Power, FMLFileResourcePack:Funky Locomotion, FMLFileResourcePack:Gadomancy, FMLFileResourcePack:Garden Containers, FMLFileResourcePack:Garden Core, FMLFileResourcePack:Garden Stuff, FMLFileResourcePack:Garden Trees, FMLFileResourcePack:Gear Swap, FMLFileResourcePack:Guide-API, FMLFileResourcePack:Hardcore Ender Expansion, FMLFileResourcePack:Highlands, FMLFileResourcePack:HolographicVictoryMonument, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Iguana Tinker Tweaks, FMLFileResourcePack:Inventory Centerer, FMLFileResourcePack:Inventory Pets, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Kore Sample, FMLFileResourcePack:Laundarray, FMLFileResourcePack:LunatriusCore, FMLFileResourcePack:Magical Crops: Core, FMLFileResourcePack:Magical Crops: Armoury, FMLFileResourcePack:Magical Crops: Decorative, FMLFileResourcePack:Malisis Advert, FMLFileResourcePack:MalisisCore, FMLFileResourcePack:Malisis' Doors, FMLFileResourcePack:Mantle, FMLFileResourcePack:Marine Technlogy, FMLFileResourcePack:Mariculture, FMLFileResourcePack:Metallurgy 4, FMLFileResourcePack:Metallurgy Chisel, FMLFileResourcePack:Metallurgy Core, FMLFileResourcePack:MineChess, FMLFileResourcePack:Minestones, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:MmmMmmMmmMmm, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:More Backpacks, FMLFileResourcePack:More Chisels, FMLFileResourcePack:Morpheus, FMLFileResourcePack:Natura, FMLFileResourcePack:Natural Absorption, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:Nether Portal Fix, FMLFileResourcePack:NotEnoughIDs, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:NotEnoughThaumcraftTabs, FMLFileResourcePack:NOVA, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:Pam's BoneCraft, FMLFileResourcePack:Pam's Clayspawn, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Placeable Gunpowder, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Railcraft Cosmetic Additions, FMLFileResourcePack:Random Things, FMLFileResourcePack:Reliquary, FMLFileResourcePack:libsandstone, FMLFileResourcePack:Remote IO, FMLFileResourcePack:Runes of Wizardry, FMLFileResourcePack:Sanguimancy, FMLFileResourcePack:Sanguine Utilities, FMLFileResourcePack:Schematica, FMLFileResourcePack:ShetiPhian-Core, FMLFileResourcePack:The Spice of Life, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Super Crafting Frame, FMLFileResourcePack:TCBotaniaExoflame, FMLFileResourcePack:TC Inventory Scanning, FMLFileResourcePack:TC Node Tracker, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Bases, FMLFileResourcePack:Thaumic Energistics, FMLFileResourcePack:Thaumic Exploration, FMLFileResourcePack:Thaumic Horizons, FMLFileResourcePack:Thaumic Infusion, FMLFileResourcePack:thaumicsanity, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Thermal Singularities, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Tinkers' Defense, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:TrashSlot, FMLFileResourcePack:Traveller's Gear, FMLFileResourcePack:Thaumic Warden, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Waila, FMLFileResourcePack:WAILA Features, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:Waterproof, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Waystones, FMLFileResourcePack:Witchery, FMLFileResourcePack:Witching Gadgets, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:WorldEdit CUI Forge Edition, FMLFileResourcePack:Ztones, FMLFileResourcePack:Baubles, FMLFileResourcePack:Red Gear Core, Avaritia_Delegate_Pack, Avaritia_Delegate_Pack, XU_Delegate_Pack, XU_Delegate_Pack, XU_Delegate_Pack, FMLFileResourcePack:Carpenter's Blocks Cached Resources, BA_Delegate_Pack
+[17:24:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:24:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:24:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:24:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:24:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:24:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:24:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:24:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:24:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:24:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:24:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:24:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:24:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:24:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: OceanMonument.txt in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\Et Futurum-1.5.5.jar
+[17:24:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\NOVA-2015-10-09-universal.jar
+[17:24:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\NOVA-2015-10-09-universal.jar
+[17:26:06] [Client thread/INFO]: Created: 4096x2048 textures/blocks-atlas
+[17:27:30] [Client thread/INFO]: Created: 4096x4096 textures/items-atlas
+[17:27:32] [Sound Library Loader/INFO]: Sound engine started
+[17:28:34] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:28:34] [Server thread/INFO]: Generating keypair
+[17:38:24] [Server thread/INFO]: Preparing start region for level 0
+[17:38:25] [Server thread/INFO]: Preparing spawn area: 9%
+[17:38:26] [Server thread/INFO]: Preparing spawn area: 27%
+[17:38:27] [Server thread/INFO]: Preparing spawn area: 47%
+[17:38:28] [Server thread/INFO]: Preparing spawn area: 63%
+[17:38:29] [Server thread/INFO]: Preparing spawn area: 74%
+[17:38:30] [Server thread/INFO]: Preparing spawn area: 97%
+[17:38:55] [Server thread/INFO]: Stopping server
+[17:38:55] [Server thread/INFO]: Saving players
+[17:38:55] [Server thread/INFO]: Saving worlds
+[17:38:55] [Server thread/INFO]: Saving chunks for level 'Undermine'/Overworld
+[17:38:56] [Server thread/INFO]: Saving chunks for level 'Undermine'/Nether
+[17:38:56] [Server thread/INFO]: Saving chunks for level 'Undermine'/Soul Network Dimension
+[17:38:56] [Server thread/INFO]: Saving chunks for level 'Undermine'/The Last Millenium
+[17:38:56] [Server thread/INFO]: Saving chunks for level 'Undermine'/Outer Lands
+[17:38:56] [Server thread/INFO]: Saving chunks for level 'Undermine'/SpectreWorld
+[17:38:56] [Server thread/INFO]: Saving chunks for level 'Undermine'/Pocket Plane
+[17:40:07] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:40:07] [Server thread/INFO]: Generating keypair
+[17:40:18] [Server thread/INFO]: Stopping server
+[17:40:18] [Server thread/INFO]: Saving players
+[17:40:18] [Server thread/INFO]: Saving worlds
+[17:41:56] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:41:56] [Server thread/INFO]: Generating keypair
+[17:42:56] [Client thread/INFO]: Stopping!
+[17:48:57] [main/INFO]: Setting user: AshleyW_
+[17:49:07] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:52:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:OpenEye, FMLFileResourcePack:Mine & Blade Battlegear 2 - Bullseye, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:Achievement Extreme, FMLFileResourcePack:Adventure Backpack, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:AgriCraft, FMLFileResourcePack:Alt F4, FMLFileResourcePack:Ancient Trees, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Anti Id Conflict, FMLFileResourcePack:Another One Bites The Dust, FMLFileResourcePack:Another One Bites The Dust: Berry Bushes, FMLFileResourcePack:AppleCore, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Armor Overlay, FMLFileResourcePack:Aura Cascade, FMLFileResourcePack:Automagy, FMLFileResourcePack:Avaritia, FMLFileResourcePack:Avaritiaddons, FMLFileResourcePack:Backpack, FMLFileResourcePack:BD Lib, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:Big Doors, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Arsenal, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:Catwalks Mod, FMLFileResourcePack:Legacy Catwalk Compat, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisel Tones, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Colorblind Helper, FMLFileResourcePack:Companions, FMLFileResourcePack:Cooking for Blockheads, FMLFileResourcePack:CraftHeraldry, FMLFileResourcePack:Crafting Tweaks, FMLFileResourcePack:PTRModelLib, FMLFileResourcePack:Decocraft, FMLFileResourcePack:debug, FMLFileResourcePack:Dense Ores, FMLFileResourcePack:Description Tags, FMLFileResourcePack:Doors, FMLFileResourcePack:DummyCore, FMLFileResourcePack:Enchiridion, FMLFileResourcePack:Enchiridion 2, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderTanks, FMLFileResourcePack:Equivalence, FMLFileResourcePack:Equivalent Exchange 3, FMLFileResourcePack:Et Futurum, FMLFileResourcePack:EXCore, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Extra Carts, FMLFileResourcePack:Extra Cells 2, FMLFileResourcePack:ExtraTiC, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Floocraft, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Forestry Fermenter Addon, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:Flaxbeard's Steam Power, FMLFileResourcePack:Funky Locomotion, FMLFileResourcePack:Gadomancy, FMLFileResourcePack:Garden Containers, FMLFileResourcePack:Garden Core, FMLFileResourcePack:Garden Stuff, FMLFileResourcePack:Garden Trees, FMLFileResourcePack:Gear Swap, FMLFileResourcePack:Guide-API, FMLFileResourcePack:Hardcore Ender Expansion, FMLFileResourcePack:Highlands, FMLFileResourcePack:HolographicVictoryMonument, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Iguana Tinker Tweaks, FMLFileResourcePack:Inventory Centerer, FMLFileResourcePack:Inventory Pets, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Kore Sample, FMLFileResourcePack:Laundarray, FMLFileResourcePack:LunatriusCore, FMLFileResourcePack:Magical Crops: Core, FMLFileResourcePack:Magical Crops: Armoury, FMLFileResourcePack:Magical Crops: Decorative, FMLFileResourcePack:Malisis Advert, FMLFileResourcePack:MalisisCore, FMLFileResourcePack:Malisis' Doors, FMLFileResourcePack:Mantle, FMLFileResourcePack:Marine Technlogy, FMLFileResourcePack:Mariculture, FMLFileResourcePack:Metallurgy 4, FMLFileResourcePack:Metallurgy Chisel, FMLFileResourcePack:Metallurgy Core, FMLFileResourcePack:MineChess, FMLFileResourcePack:Minestones, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:MmmMmmMmmMmm, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:More Backpacks, FMLFileResourcePack:More Chisels, FMLFileResourcePack:Morpheus, FMLFileResourcePack:Natura, FMLFileResourcePack:Natural Absorption, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:Nether Portal Fix, FMLFileResourcePack:NotEnoughIDs, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:NotEnoughThaumcraftTabs, FMLFileResourcePack:NOVA, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:Pam's BoneCraft, FMLFileResourcePack:Pam's Clayspawn, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Placeable Gunpowder, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Railcraft Cosmetic Additions, FMLFileResourcePack:Random Things, FMLFileResourcePack:Reliquary, FMLFileResourcePack:libsandstone, FMLFileResourcePack:Remote IO, FMLFileResourcePack:Runes of Wizardry, FMLFileResourcePack:Sanguimancy, FMLFileResourcePack:Sanguine Utilities, FMLFileResourcePack:Schematica, FMLFileResourcePack:ShetiPhian-Core, FMLFileResourcePack:The Spice of Life, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Super Crafting Frame, FMLFileResourcePack:TCBotaniaExoflame, FMLFileResourcePack:TC Inventory Scanning, FMLFileResourcePack:TC Node Tracker, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Bases, FMLFileResourcePack:Thaumic Energistics, FMLFileResourcePack:Thaumic Exploration, FMLFileResourcePack:Thaumic Horizons, FMLFileResourcePack:Thaumic Infusion, FMLFileResourcePack:thaumicsanity, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Thermal Singularities, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Tinkers' Defense, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:TrashSlot, FMLFileResourcePack:Traveller's Gear, FMLFileResourcePack:Thaumic Warden, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Waila, FMLFileResourcePack:WAILA-features, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:Waterproof, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Waystones, FMLFileResourcePack:Witchery, FMLFileResourcePack:Witching Gadgets, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:WorldEdit CUI Forge Edition, FMLFileResourcePack:Ztones, FMLFileResourcePack:Baubles, FMLFileResourcePack:Red Gear Core
+[17:52:04] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:52:04] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:52:04] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:52:04] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:52:04] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:52:04] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:52:04] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[17:52:04] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:52:04] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:52:04] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:52:04] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:52:04] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:52:04] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[17:52:04] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: OceanMonument.txt in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\Et Futurum-1.5.5.jar
+[17:52:05] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\NOVA-2015-10-09-universal.jar
+[17:52:05] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\NOVA-2015-10-09-universal.jar
+[17:59:11] [Sound Library Loader/INFO]: Sound engine started
+[17:59:17] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[17:59:22] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[18:05:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:OpenEye, FMLFileResourcePack:Mine & Blade Battlegear 2 - Bullseye, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:Achievement Extreme, FMLFileResourcePack:Adventure Backpack, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:AgriCraft, FMLFileResourcePack:Alt F4, FMLFileResourcePack:Ancient Trees, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Anti Id Conflict, FMLFileResourcePack:Another One Bites The Dust, FMLFileResourcePack:Another One Bites The Dust: Berry Bushes, FMLFileResourcePack:AppleCore, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Armor Overlay, FMLFileResourcePack:Aura Cascade, FMLFileResourcePack:Automagy, FMLFileResourcePack:Avaritia, FMLFileResourcePack:Avaritiaddons, FMLFileResourcePack:Backpack, FMLFileResourcePack:BD Lib, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:Big Doors, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Arsenal, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:Catwalks Mod, FMLFileResourcePack:Legacy Catwalk Compat, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisel Tones, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Colorblind Helper, FMLFileResourcePack:Companions, FMLFileResourcePack:Cooking for Blockheads, FMLFileResourcePack:CraftHeraldry, FMLFileResourcePack:Crafting Tweaks, FMLFileResourcePack:PTRModelLib, FMLFileResourcePack:Decocraft, FMLFileResourcePack:debug, FMLFileResourcePack:Dense Ores, FMLFileResourcePack:Description Tags, FMLFileResourcePack:Doors, FMLFileResourcePack:DummyCore, FMLFileResourcePack:Enchiridion, FMLFileResourcePack:Enchiridion 2, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderTanks, FMLFileResourcePack:Equivalence, FMLFileResourcePack:Equivalent Exchange 3, FMLFileResourcePack:Et Futurum, FMLFileResourcePack:EXCore, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Extra Carts, FMLFileResourcePack:Extra Cells 2, FMLFileResourcePack:ExtraTiC, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Floocraft, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Forestry Fermenter Addon, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:Flaxbeard's Steam Power, FMLFileResourcePack:Funky Locomotion, FMLFileResourcePack:Gadomancy, FMLFileResourcePack:Garden Containers, FMLFileResourcePack:Garden Core, FMLFileResourcePack:Garden Stuff, FMLFileResourcePack:Garden Trees, FMLFileResourcePack:Gear Swap, FMLFileResourcePack:Guide-API, FMLFileResourcePack:Hardcore Ender Expansion, FMLFileResourcePack:Highlands, FMLFileResourcePack:HolographicVictoryMonument, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Iguana Tinker Tweaks, FMLFileResourcePack:Inventory Centerer, FMLFileResourcePack:Inventory Pets, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Kore Sample, FMLFileResourcePack:Laundarray, FMLFileResourcePack:LunatriusCore, FMLFileResourcePack:Magical Crops: Core, FMLFileResourcePack:Magical Crops: Armoury, FMLFileResourcePack:Magical Crops: Decorative, FMLFileResourcePack:Malisis Advert, FMLFileResourcePack:MalisisCore, FMLFileResourcePack:Malisis' Doors, FMLFileResourcePack:Mantle, FMLFileResourcePack:Marine Technlogy, FMLFileResourcePack:Mariculture, FMLFileResourcePack:Metallurgy 4, FMLFileResourcePack:Metallurgy Chisel, FMLFileResourcePack:Metallurgy Core, FMLFileResourcePack:MineChess, FMLFileResourcePack:Minestones, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:MmmMmmMmmMmm, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:More Backpacks, FMLFileResourcePack:More Chisels, FMLFileResourcePack:Morpheus, FMLFileResourcePack:Natura, FMLFileResourcePack:Natural Absorption, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:Nether Portal Fix, FMLFileResourcePack:NotEnoughIDs, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:NotEnoughThaumcraftTabs, FMLFileResourcePack:NOVA, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:Pam's BoneCraft, FMLFileResourcePack:Pam's Clayspawn, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Placeable Gunpowder, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Railcraft Cosmetic Additions, FMLFileResourcePack:Random Things, FMLFileResourcePack:Reliquary, FMLFileResourcePack:libsandstone, FMLFileResourcePack:Remote IO, FMLFileResourcePack:Runes of Wizardry, FMLFileResourcePack:Sanguimancy, FMLFileResourcePack:Sanguine Utilities, FMLFileResourcePack:Schematica, FMLFileResourcePack:ShetiPhian-Core, FMLFileResourcePack:The Spice of Life, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Super Crafting Frame, FMLFileResourcePack:TCBotaniaExoflame, FMLFileResourcePack:TC Inventory Scanning, FMLFileResourcePack:TC Node Tracker, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Bases, FMLFileResourcePack:Thaumic Energistics, FMLFileResourcePack:Thaumic Exploration, FMLFileResourcePack:Thaumic Horizons, FMLFileResourcePack:Thaumic Infusion, FMLFileResourcePack:thaumicsanity, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Thermal Singularities, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Tinkers' Defense, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:TrashSlot, FMLFileResourcePack:Traveller's Gear, FMLFileResourcePack:Thaumic Warden, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Waila, FMLFileResourcePack:WAILA Features, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:Waterproof, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Waystones, FMLFileResourcePack:Witchery, FMLFileResourcePack:Witching Gadgets, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:WorldEdit CUI Forge Edition, FMLFileResourcePack:Ztones, FMLFileResourcePack:Baubles, FMLFileResourcePack:Red Gear Core, Avaritia_Delegate_Pack, Avaritia_Delegate_Pack, XU_Delegate_Pack, XU_Delegate_Pack, XU_Delegate_Pack, FMLFileResourcePack:Carpenter's Blocks Cached Resources, BA_Delegate_Pack
+[18:05:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[18:05:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[18:05:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[18:05:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[18:05:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[18:05:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[18:05:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[18:05:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[18:05:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[18:05:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[18:05:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[18:05:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[18:05:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[18:05:28] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: OceanMonument.txt in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\Et Futurum-1.5.5.jar
+[18:05:29] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\NOVA-2015-10-09-universal.jar
+[18:05:29] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\NOVA-2015-10-09-universal.jar
+[18:07:14] [Client thread/INFO]: Created: 4096x2048 textures/blocks-atlas
+[18:09:18] [Client thread/INFO]: Created: 4096x4096 textures/items-atlas
+[18:09:22] [Sound Library Loader/INFO]: Sound engine started
+[18:25:51] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[18:25:51] [Server thread/INFO]: Generating keypair
+[18:27:01] [Server thread/INFO]: Converting map!
+[18:27:01] [Server thread/INFO]: Scanning folders...
+[18:27:01] [Server thread/INFO]: Total conversion count is 0
+[18:27:03] [Server thread/WARN]: Unable to find spawn biome
+[18:35:09] [Server thread/WARN]: Unable to find spawn biome
+[18:35:29] [Server thread/INFO]: Preparing start region for level 0
+[18:35:30] [Server thread/INFO]: Preparing spawn area: 4%
+[18:35:31] [Server thread/INFO]: Preparing spawn area: 5%
+[18:35:32] [Server thread/INFO]: Preparing spawn area: 8%
+[18:35:34] [Server thread/INFO]: Preparing spawn area: 8%
+[18:35:35] [Server thread/INFO]: Preparing spawn area: 9%
+[18:35:36] [Server thread/INFO]: Preparing spawn area: 10%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 11%
+[18:35:39] [Server thread/INFO]: Preparing spawn area: 13%
+[18:35:40] [Server thread/INFO]: Preparing spawn area: 14%
+[18:35:42] [Server thread/INFO]: Preparing spawn area: 14%
+[18:35:43] [Server thread/INFO]: Preparing spawn area: 16%
+[18:35:51] [Server thread/INFO]: Preparing spawn area: 17%
+[18:35:54] [Server thread/INFO]: Preparing spawn area: 17%
+[18:35:56] [Server thread/INFO]: Preparing spawn area: 17%
+[18:35:57] [Server thread/INFO]: Preparing spawn area: 19%
+[18:35:58] [Server thread/INFO]: Preparing spawn area: 20%
+[18:36:02] [Server thread/INFO]: Preparing spawn area: 20%
+[18:36:04] [Server thread/INFO]: Preparing spawn area: 24%
+[18:36:05] [Server thread/INFO]: Preparing spawn area: 25%
+[18:36:06] [Server thread/INFO]: Preparing spawn area: 26%
+[18:36:07] [Server thread/INFO]: Preparing spawn area: 30%
+[18:36:11] [Server thread/INFO]: Preparing spawn area: 31%
+[18:36:13] [Server thread/INFO]: Preparing spawn area: 35%
+[18:36:14] [Server thread/INFO]: Preparing spawn area: 36%
+[18:36:16] [Server thread/INFO]: Preparing spawn area: 39%
+[18:36:17] [Server thread/INFO]: Preparing spawn area: 40%
+[18:36:19] [Server thread/INFO]: Preparing spawn area: 43%
+[18:36:20] [Server thread/INFO]: Preparing spawn area: 44%
+[18:36:21] [Server thread/INFO]: Preparing spawn area: 45%
+[18:36:22] [Server thread/INFO]: Preparing spawn area: 47%
+[18:36:25] [Server thread/INFO]: Preparing spawn area: 51%
+[18:36:26] [Server thread/INFO]: Preparing spawn area: 53%
+[18:36:27] [Server thread/INFO]: Preparing spawn area: 56%
+[18:36:28] [Server thread/INFO]: Preparing spawn area: 57%
+[18:36:29] [Server thread/INFO]: Preparing spawn area: 59%
+[18:36:31] [Server thread/INFO]: Preparing spawn area: 60%
+[18:36:32] [Server thread/INFO]: Preparing spawn area: 62%
+[18:36:33] [Server thread/INFO]: Preparing spawn area: 62%
+[18:36:34] [Server thread/INFO]: Preparing spawn area: 63%
+[18:36:35] [Server thread/INFO]: Preparing spawn area: 64%
+[18:36:37] [Server thread/INFO]: Preparing spawn area: 65%
+[18:36:38] [Server thread/INFO]: Preparing spawn area: 67%
+[18:36:39] [Server thread/INFO]: Preparing spawn area: 68%
+[18:36:40] [Server thread/INFO]: Preparing spawn area: 68%
+[18:36:42] [Server thread/INFO]: Preparing spawn area: 69%
+[18:36:43] [Server thread/INFO]: Preparing spawn area: 70%
+[18:36:44] [Server thread/INFO]: Preparing spawn area: 72%
+[18:36:46] [Server thread/INFO]: Preparing spawn area: 73%
+[18:36:49] [Server thread/INFO]: Preparing spawn area: 75%
+[18:36:51] [Server thread/INFO]: Preparing spawn area: 78%
+[18:36:52] [Server thread/INFO]: Preparing spawn area: 79%
+[18:36:53] [Server thread/INFO]: Preparing spawn area: 80%
+[18:36:54] [Server thread/INFO]: Preparing spawn area: 81%
+[18:36:55] [Server thread/INFO]: Preparing spawn area: 81%
+[18:36:58] [Server thread/INFO]: Preparing spawn area: 83%
+[18:36:59] [Server thread/INFO]: Preparing spawn area: 86%
+[18:37:01] [Server thread/INFO]: Preparing spawn area: 87%
+[18:37:02] [Server thread/INFO]: Preparing spawn area: 89%
+[18:37:03] [Server thread/INFO]: Preparing spawn area: 90%
+[18:37:04] [Server thread/INFO]: Preparing spawn area: 91%
+[18:37:05] [Server thread/INFO]: Preparing spawn area: 93%
+[18:37:07] [Server thread/INFO]: Preparing spawn area: 95%
+[18:37:08] [Server thread/INFO]: Preparing spawn area: 96%
+[18:37:09] [Server thread/INFO]: Preparing spawn area: 97%
+[18:37:10] [Server thread/INFO]: Preparing spawn area: 99%
+[18:37:27] [Server thread/INFO]: AshleyW_[local:E:3dae0509] logged in with entity id 137 at (1006.5, 227.0, 110.5)
+[18:37:27] [Server thread/INFO]: AshleyW_ joined the game
+[18:38:12] [Client thread/INFO]: [CHAT] This was dropped when your Soul formed.
+[18:38:14] [Client thread/INFO]: [CHAT] [HEE] Ender Compendium key conflicts with Night Vision, please fix the issue in Controls menu.
+[18:40:29] [Server thread/INFO]: Saving and pausing game...
+[18:40:29] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Overworld
+[18:40:29] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[18:40:30] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Nether
+[18:40:30] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Soul Network Dimension
+[18:40:30] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/The Last Millenium
+[18:40:30] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Outer Lands
+[18:40:30] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/SpectreWorld
+[18:40:30] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Pocket Plane
+[19:39:03] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[19:39:17] [Server thread/INFO]: Saving and pausing game...
+[19:39:17] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Overworld
+[19:39:19] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Nether
+[19:39:19] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Soul Network Dimension
+[19:39:19] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/The Last Millenium
+[19:39:19] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Outer Lands
+[19:39:19] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/SpectreWorld
+[19:39:19] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Pocket Plane
+[19:39:43] [Server thread/INFO]: AshleyW_ has just earned the achievement [Taking Inventory]
+[19:39:44] [Client thread/INFO]: [CHAT] AshleyW_ has just earned the achievement [Taking Inventory]
+[19:40:10] [Server thread/INFO]: Saving and pausing game...
+[19:40:10] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Overworld
+[19:40:11] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Nether
+[19:40:11] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Soul Network Dimension
+[19:40:11] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/The Last Millenium
+[19:40:11] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Outer Lands
+[19:40:11] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/SpectreWorld
+[19:40:11] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Pocket Plane
+[19:40:39] [Client thread/INFO]: [CHAT] You are now playing creative
+[19:48:38] [Client thread/INFO]: [CHAT] The Blood Moon is rising...
+[19:54:12] [Server thread/INFO]: Saving and pausing game...
+[19:54:12] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Overworld
+[19:54:13] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Nether
+[19:54:13] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Soul Network Dimension
+[19:54:13] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/The Last Millenium
+[19:54:13] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Outer Lands
+[19:54:13] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/SpectreWorld
+[19:54:13] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Pocket Plane
+[19:54:16] [Server thread/INFO]: Saving and pausing game...
+[19:54:16] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Overworld
+[19:54:16] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Nether
+[19:54:16] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Soul Network Dimension
+[19:54:16] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/The Last Millenium
+[19:54:16] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Outer Lands
+[19:54:16] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/SpectreWorld
+[19:54:16] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Pocket Plane
+[19:55:22] [Server thread/INFO]: [AshleyW_: Given [Book of Biomes (Extended Edition)] * 1 to AshleyW_]
+[19:55:22] [Server thread/INFO]: [AshleyW_: Given [Book of Biomes (Extended Edition)] * 1 to AshleyW_]
+[19:55:22] [Client thread/INFO]: [CHAT] Given [Book of Biomes (Extended Edition)] * 1 to AshleyW_
+[19:55:22] [Client thread/INFO]: [CHAT] Given [Book of Biomes (Extended Edition)] * 1 to AshleyW_
+[19:55:23] [Server thread/INFO]: Saving and pausing game...
+[19:55:23] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Overworld
+[19:55:23] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Nether
+[19:55:23] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Soul Network Dimension
+[19:55:24] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/The Last Millenium
+[19:55:24] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Outer Lands
+[19:55:24] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/SpectreWorld
+[19:55:24] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Pocket Plane
+[19:55:36] [Server thread/INFO]: [AshleyW_: Given [Book of Biomes] * 1 to AshleyW_]
+[19:55:36] [Client thread/INFO]: [CHAT] Given [Book of Biomes] * 1 to AshleyW_
+[19:55:38] [Server thread/INFO]: Saving and pausing game...
+[19:55:38] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Overworld
+[19:55:39] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Nether
+[19:55:39] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Soul Network Dimension
+[19:55:39] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/The Last Millenium
+[19:55:39] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Outer Lands
+[19:55:39] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/SpectreWorld
+[19:55:39] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Pocket Plane
+[19:55:43] [Server thread/INFO]: Saving and pausing game...
+[19:55:43] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Overworld
+[19:55:43] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Nether
+[19:55:43] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Soul Network Dimension
+[19:55:43] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/The Last Millenium
+[19:55:43] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Outer Lands
+[19:55:43] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/SpectreWorld
+[19:55:43] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Pocket Plane
+[20:38:25] [Server thread/INFO]: [AshleyW_: Given [Book of Knowledge] * 1 to AshleyW_]
+[20:38:25] [Client thread/INFO]: [CHAT] Given [Book of Knowledge] * 1 to AshleyW_
+[20:54:32] [Server thread/INFO]: Saving and pausing game...
+[20:54:32] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Overworld
+[20:54:33] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Nether
+[20:54:33] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Soul Network Dimension
+[20:54:33] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/The Last Millenium
+[20:54:33] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Outer Lands
+[20:54:33] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/SpectreWorld
+[20:54:33] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Pocket Plane
+[20:56:04] [Client thread/INFO]: Warning: Clientside chunk ticking took 107 ms
+[20:58:57] [Server thread/INFO]: [AshleyW_: Given [Adventurer's Diary] * 1 to AshleyW_]
+[20:58:57] [Client thread/INFO]: [CHAT] Given [Adventurer's Diary] * 1 to AshleyW_
+[20:59:00] [Server thread/INFO]: Saving and pausing game...
+[20:59:00] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Overworld
+[20:59:00] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Nether
+[20:59:00] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Soul Network Dimension
+[20:59:00] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/The Last Millenium
+[20:59:00] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Outer Lands
+[20:59:00] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/SpectreWorld
+[20:59:00] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Pocket Plane
+[20:59:19] [Server thread/INFO]: Saving and pausing game...
+[20:59:19] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Overworld
+[20:59:19] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Nether
+[20:59:19] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Soul Network Dimension
+[20:59:19] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/The Last Millenium
+[20:59:19] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Outer Lands
+[20:59:19] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/SpectreWorld
+[20:59:19] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Pocket Plane
+[20:59:39] [Server thread/INFO]: Saving and pausing game...
+[20:59:39] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Overworld
+[20:59:39] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Nether
+[20:59:39] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Soul Network Dimension
+[20:59:39] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/The Last Millenium
+[20:59:39] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Outer Lands
+[20:59:39] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/SpectreWorld
+[20:59:39] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Pocket Plane
+[21:10:59] [Server thread/INFO]: [AshleyW_: Given [Smeltery Controller] * 1 to AshleyW_]
+[21:10:59] [Client thread/INFO]: [CHAT] Given [Smeltery Controller] * 1 to AshleyW_
+[21:11:10] [Server thread/INFO]: [AshleyW_: Given [Seared Tank] * 1 to AshleyW_]
+[21:11:10] [Client thread/INFO]: [CHAT] Given [Seared Tank] * 1 to AshleyW_
+[21:11:20] [Server thread/INFO]: [AshleyW_: Given [Seared Bricks] * 1 to AshleyW_]
+[21:11:20] [Client thread/INFO]: [CHAT] Given [Seared Bricks] * 1 to AshleyW_
+[21:12:32] [Server thread/INFO]: [AshleyW_: Given [Lava Bucket] * 1 to AshleyW_]
+[21:12:32] [Client thread/INFO]: [CHAT] Given [Lava Bucket] * 1 to AshleyW_
+[21:13:37] [Server thread/INFO]: [AshleyW_: Given [Pyrotheum Dust] * 1 to AshleyW_]
+[21:13:37] [Client thread/INFO]: [CHAT] Given [Pyrotheum Dust] * 1 to AshleyW_
+[21:14:33] [Server thread/INFO]: [AshleyW_: Given [Cryotheum Dust] * 1 to AshleyW_]
+[21:14:33] [Client thread/INFO]: [CHAT] Given [Cryotheum Dust] * 1 to AshleyW_
+[21:14:56] [Server thread/INFO]: [AshleyW_: Given [Aerotheum Dust] * 1 to AshleyW_]
+[21:14:56] [Client thread/INFO]: [CHAT] Given [Aerotheum Dust] * 1 to AshleyW_
+[21:14:57] [Server thread/INFO]: [AshleyW_: Given [Petrotheum Dust] * 1 to AshleyW_]
+[21:14:57] [Client thread/INFO]: [CHAT] Given [Petrotheum Dust] * 1 to AshleyW_
+[21:24:19] [main/INFO]: Setting user: AshleyW_
+[21:24:30] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:27:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:OpenEye, FMLFileResourcePack:Mine & Blade Battlegear 2 - Bullseye, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:Achievement Extreme, FMLFileResourcePack:Adventure Backpack, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:AgriCraft, FMLFileResourcePack:Alt F4, FMLFileResourcePack:Ancient Trees, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Anti Id Conflict, FMLFileResourcePack:Another One Bites The Dust, FMLFileResourcePack:Another One Bites The Dust: Berry Bushes, FMLFileResourcePack:AppleCore, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Armor Overlay, FMLFileResourcePack:Aura Cascade, FMLFileResourcePack:Automagy, FMLFileResourcePack:Avaritia, FMLFileResourcePack:Avaritiaddons, FMLFileResourcePack:Backpack, FMLFileResourcePack:BD Lib, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:Big Doors, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Arsenal, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:Catwalks Mod, FMLFileResourcePack:Legacy Catwalk Compat, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisel Tones, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Colorblind Helper, FMLFileResourcePack:Companions, FMLFileResourcePack:Cooking for Blockheads, FMLFileResourcePack:CraftHeraldry, FMLFileResourcePack:Crafting Tweaks, FMLFileResourcePack:PTRModelLib, FMLFileResourcePack:Decocraft, FMLFileResourcePack:debug, FMLFileResourcePack:Dense Ores, FMLFileResourcePack:Description Tags, FMLFileResourcePack:Doors, FMLFileResourcePack:DummyCore, FMLFileResourcePack:Enchiridion, FMLFileResourcePack:Enchiridion 2, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderTanks, FMLFileResourcePack:Equivalence, FMLFileResourcePack:Equivalent Exchange 3, FMLFileResourcePack:Et Futurum, FMLFileResourcePack:EXCore, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Extra Carts, FMLFileResourcePack:Extra Cells 2, FMLFileResourcePack:ExtraTiC, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Floocraft, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Forestry Fermenter Addon, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:Flaxbeard's Steam Power, FMLFileResourcePack:Funky Locomotion, FMLFileResourcePack:Gadomancy, FMLFileResourcePack:Garden Containers, FMLFileResourcePack:Garden Core, FMLFileResourcePack:Garden Stuff, FMLFileResourcePack:Garden Trees, FMLFileResourcePack:Gear Swap, FMLFileResourcePack:Guide-API, FMLFileResourcePack:Hardcore Ender Expansion, FMLFileResourcePack:Highlands, FMLFileResourcePack:HolographicVictoryMonument, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Iguana Tinker Tweaks, FMLFileResourcePack:Inventory Centerer, FMLFileResourcePack:Inventory Pets, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Kore Sample, FMLFileResourcePack:Laundarray, FMLFileResourcePack:LunatriusCore, FMLFileResourcePack:Magical Crops: Core, FMLFileResourcePack:Magical Crops: Armoury, FMLFileResourcePack:Magical Crops: Decorative, FMLFileResourcePack:Malisis Advert, FMLFileResourcePack:MalisisCore, FMLFileResourcePack:Malisis' Doors, FMLFileResourcePack:Mantle, FMLFileResourcePack:Marine Technlogy, FMLFileResourcePack:Mariculture, FMLFileResourcePack:Metallurgy 4, FMLFileResourcePack:Metallurgy Chisel, FMLFileResourcePack:Metallurgy Core, FMLFileResourcePack:MineChess, FMLFileResourcePack:Minestones, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:MmmMmmMmmMmm, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:More Backpacks, FMLFileResourcePack:More Chisels, FMLFileResourcePack:Morpheus, FMLFileResourcePack:Natura, FMLFileResourcePack:Natural Absorption, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:Nether Portal Fix, FMLFileResourcePack:NotEnoughIDs, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:NotEnoughThaumcraftTabs, FMLFileResourcePack:NOVA, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:Pam's BoneCraft, FMLFileResourcePack:Pam's Clayspawn, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Placeable Gunpowder, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Railcraft Cosmetic Additions, FMLFileResourcePack:Random Things, FMLFileResourcePack:Reliquary, FMLFileResourcePack:libsandstone, FMLFileResourcePack:Remote IO, FMLFileResourcePack:Runes of Wizardry, FMLFileResourcePack:Sanguimancy, FMLFileResourcePack:Sanguine Utilities, FMLFileResourcePack:Schematica, FMLFileResourcePack:ShetiPhian-Core, FMLFileResourcePack:The Spice of Life, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Super Crafting Frame, FMLFileResourcePack:TCBotaniaExoflame, FMLFileResourcePack:TC Inventory Scanning, FMLFileResourcePack:TC Node Tracker, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Bases, FMLFileResourcePack:Thaumic Energistics, FMLFileResourcePack:Thaumic Exploration, FMLFileResourcePack:Thaumic Horizons, FMLFileResourcePack:Thaumic Infusion, FMLFileResourcePack:thaumicsanity, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Thermal Singularities, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Tinkers' Defense, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:TrashSlot, FMLFileResourcePack:Traveller's Gear, FMLFileResourcePack:Thaumic Warden, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Waila, FMLFileResourcePack:WAILA-features, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:Waterproof, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Waystones, FMLFileResourcePack:Witchery, FMLFileResourcePack:Witching Gadgets, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:WorldEdit CUI Forge Edition, FMLFileResourcePack:Ztones, FMLFileResourcePack:Baubles, FMLFileResourcePack:Red Gear Core
+[21:27:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[21:27:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[21:27:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[21:27:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[21:27:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[21:27:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[21:27:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[21:27:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[21:27:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[21:27:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[21:27:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[21:27:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[21:27:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[21:27:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: OceanMonument.txt in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\Et Futurum-1.5.5.jar
+[21:27:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\NOVA-2015-10-09-universal.jar
+[21:27:35] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\NOVA-2015-10-09-universal.jar
+[21:36:15] [Sound Library Loader/INFO]: Sound engine started
+[21:36:25] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[21:36:33] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[21:42:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:OpenEye, FMLFileResourcePack:Mine & Blade Battlegear 2 - Bullseye, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:Achievement Extreme, FMLFileResourcePack:Adventure Backpack, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:AgriCraft, FMLFileResourcePack:Alt F4, FMLFileResourcePack:Ancient Trees, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Anti Id Conflict, FMLFileResourcePack:Another One Bites The Dust, FMLFileResourcePack:Another One Bites The Dust: Berry Bushes, FMLFileResourcePack:AppleCore, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Armor Overlay, FMLFileResourcePack:Aura Cascade, FMLFileResourcePack:Automagy, FMLFileResourcePack:Avaritia, FMLFileResourcePack:Avaritiaddons, FMLFileResourcePack:Backpack, FMLFileResourcePack:BD Lib, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:Big Doors, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Blood Arsenal, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:Catwalks Mod, FMLFileResourcePack:Legacy Catwalk Compat, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisel Tones, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Colorblind Helper, FMLFileResourcePack:Companions, FMLFileResourcePack:Cooking for Blockheads, FMLFileResourcePack:CraftHeraldry, FMLFileResourcePack:Crafting Tweaks, FMLFileResourcePack:PTRModelLib, FMLFileResourcePack:Decocraft, FMLFileResourcePack:debug, FMLFileResourcePack:Dense Ores, FMLFileResourcePack:Description Tags, FMLFileResourcePack:Doors, FMLFileResourcePack:DummyCore, FMLFileResourcePack:Enchiridion, FMLFileResourcePack:Enchiridion 2, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderTanks, FMLFileResourcePack:Equivalence, FMLFileResourcePack:Equivalent Exchange 3, FMLFileResourcePack:Et Futurum, FMLFileResourcePack:EXCore, FMLFileResourcePack:ExtrabiomesXL, FMLFileResourcePack:Extra Carts, FMLFileResourcePack:Extra Cells 2, FMLFileResourcePack:ExtraTiC, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Floocraft, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Forestry Fermenter Addon, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:Flaxbeard's Steam Power, FMLFileResourcePack:Funky Locomotion, FMLFileResourcePack:Gadomancy, FMLFileResourcePack:Garden Containers, FMLFileResourcePack:Garden Core, FMLFileResourcePack:Garden Stuff, FMLFileResourcePack:Garden Trees, FMLFileResourcePack:Gear Swap, FMLFileResourcePack:Guide-API, FMLFileResourcePack:Hardcore Ender Expansion, FMLFileResourcePack:Highlands, FMLFileResourcePack:HolographicVictoryMonument, FMLFileResourcePack:Hardcore Questing Mode, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Iguana Tinker Tweaks, FMLFileResourcePack:Inventory Centerer, FMLFileResourcePack:Inventory Pets, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Kore Sample, FMLFileResourcePack:Laundarray, FMLFileResourcePack:LunatriusCore, FMLFileResourcePack:Magical Crops: Core, FMLFileResourcePack:Magical Crops: Armoury, FMLFileResourcePack:Magical Crops: Decorative, FMLFileResourcePack:Malisis Advert, FMLFileResourcePack:MalisisCore, FMLFileResourcePack:Malisis' Doors, FMLFileResourcePack:Mantle, FMLFileResourcePack:Marine Technlogy, FMLFileResourcePack:Mariculture, FMLFileResourcePack:Metallurgy 4, FMLFileResourcePack:Metallurgy Chisel, FMLFileResourcePack:Metallurgy Core, FMLFileResourcePack:MineChess, FMLFileResourcePack:Minestones, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:MmmMmmMmmMmm, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:More Backpacks, FMLFileResourcePack:More Chisels, FMLFileResourcePack:Morpheus, FMLFileResourcePack:Natura, FMLFileResourcePack:Natural Absorption, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:Nether Portal Fix, FMLFileResourcePack:NotEnoughIDs, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:NotEnoughThaumcraftTabs, FMLFileResourcePack:NOVA, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:Pam's BoneCraft, FMLFileResourcePack:Pam's Clayspawn, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Placeable Gunpowder, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Railcraft Cosmetic Additions, FMLFileResourcePack:Random Things, FMLFileResourcePack:Reliquary, FMLFileResourcePack:libsandstone, FMLFileResourcePack:Remote IO, FMLFileResourcePack:Runes of Wizardry, FMLFileResourcePack:Sanguimancy, FMLFileResourcePack:Sanguine Utilities, FMLFileResourcePack:Schematica, FMLFileResourcePack:ShetiPhian-Core, FMLFileResourcePack:The Spice of Life, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Super Crafting Frame, FMLFileResourcePack:TCBotaniaExoflame, FMLFileResourcePack:TC Inventory Scanning, FMLFileResourcePack:TC Node Tracker, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Bases, FMLFileResourcePack:Thaumic Energistics, FMLFileResourcePack:Thaumic Exploration, FMLFileResourcePack:Thaumic Horizons, FMLFileResourcePack:Thaumic Infusion, FMLFileResourcePack:thaumicsanity, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Thermal Singularities, FMLFileResourcePack:TiC Tooltips, FMLFileResourcePack:Tinkers' Defense, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:TrashSlot, FMLFileResourcePack:Traveller's Gear, FMLFileResourcePack:Thaumic Warden, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Waila, FMLFileResourcePack:WAILA Features, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:Waterproof, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Waystones, FMLFileResourcePack:Witchery, FMLFileResourcePack:Witching Gadgets, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:WorldEdit CUI Forge Edition, FMLFileResourcePack:Ztones, FMLFileResourcePack:Baubles, FMLFileResourcePack:Red Gear Core, Avaritia_Delegate_Pack, Avaritia_Delegate_Pack, XU_Delegate_Pack, XU_Delegate_Pack, XU_Delegate_Pack, FMLFileResourcePack:Carpenter's Blocks Cached Resources, BA_Delegate_Pack
+[21:42:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[21:42:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[21:42:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[21:42:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[21:42:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[21:42:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[21:42:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: AchievExtrem in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\achievextrem-1.0.1.jar
+[21:42:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[21:42:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[21:42:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[21:42:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[21:42:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[21:42:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\BloodMagic-1.7.10-1.3.3-17.jar
+[21:42:51] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: OceanMonument.txt in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\Et Futurum-1.5.5.jar
+[21:42:52] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\NOVA-2015-10-09-universal.jar
+[21:42:52] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: alchemicalwizardryBooks in E:\ashle\Documents\Curse\Minecraft\Instances\Magic\mods\NOVA-2015-10-09-universal.jar
+[21:44:58] [Client thread/INFO]: Created: 4096x2048 textures/blocks-atlas
+[21:46:35] [Client thread/INFO]: Created: 4096x4096 textures/items-atlas
+[21:46:38] [Sound Library Loader/INFO]: Sound engine started
+[21:47:53] [Client thread/INFO]: Deleting level Copy of Undermine-
+[21:47:53] [Client thread/INFO]: Attempt 1...
+[21:48:44] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:48:44] [Server thread/INFO]: Generating keypair
+[21:49:21] [Server thread/INFO]: Converting map!
+[21:49:21] [Server thread/INFO]: Scanning folders...
+[21:49:21] [Server thread/INFO]: Total conversion count is 0
+[21:49:23] [Server thread/WARN]: Unable to find spawn biome
+[21:50:53] [Server thread/WARN]: Unable to find spawn biome
+[21:51:10] [Server thread/INFO]: Preparing start region for level 0
+[21:51:11] [Server thread/INFO]: Preparing spawn area: 2%
+[21:51:12] [Server thread/INFO]: Preparing spawn area: 4%
+[21:51:16] [Server thread/INFO]: Preparing spawn area: 6%
+[21:51:18] [Server thread/INFO]: Preparing spawn area: 6%
+[21:51:19] [Server thread/INFO]: Preparing spawn area: 8%
+[21:51:21] [Server thread/INFO]: Preparing spawn area: 12%
+[21:51:22] [Server thread/INFO]: Preparing spawn area: 12%
+[21:51:24] [Server thread/INFO]: Preparing spawn area: 14%
+[21:51:25] [Server thread/INFO]: Preparing spawn area: 16%
+[21:51:27] [Server thread/INFO]: Preparing spawn area: 19%
+[21:51:28] [Server thread/INFO]: Preparing spawn area: 20%
+[21:51:30] [Server thread/INFO]: Preparing spawn area: 23%
+[21:51:32] [Server thread/INFO]: Preparing spawn area: 25%
+[21:51:33] [Server thread/INFO]: Preparing spawn area: 32%
+[21:51:35] [Server thread/INFO]: Preparing spawn area: 36%
+[21:51:37] [Server thread/INFO]: Preparing spawn area: 44%
+[21:51:39] [Server thread/INFO]: Preparing spawn area: 45%
+[21:51:40] [Server thread/INFO]: Preparing spawn area: 53%
+[21:51:42] [Server thread/INFO]: Preparing spawn area: 56%
+[21:51:46] [Server thread/INFO]: Preparing spawn area: 57%
+[21:51:47] [Server thread/INFO]: Preparing spawn area: 58%
+[21:51:49] [Server thread/INFO]: Preparing spawn area: 60%
+[21:51:51] [Server thread/INFO]: Preparing spawn area: 62%
+[21:51:52] [Server thread/INFO]: Preparing spawn area: 64%
+[21:51:56] [Server thread/INFO]: Preparing spawn area: 65%
+[21:51:57] [Server thread/INFO]: Preparing spawn area: 66%
+[21:51:58] [Server thread/INFO]: Preparing spawn area: 71%
+[21:51:59] [Server thread/INFO]: Preparing spawn area: 74%
+[21:52:00] [Server thread/INFO]: Preparing spawn area: 75%
+[21:52:02] [Server thread/INFO]: Preparing spawn area: 76%
+[21:52:03] [Server thread/INFO]: Preparing spawn area: 78%
+[21:52:04] [Server thread/INFO]: Preparing spawn area: 79%
+[21:52:06] [Server thread/INFO]: Preparing spawn area: 79%
+[21:52:07] [Server thread/INFO]: Preparing spawn area: 80%
+[21:52:08] [Server thread/INFO]: Preparing spawn area: 83%
+[21:52:09] [Server thread/INFO]: Preparing spawn area: 84%
+[21:52:11] [Server thread/INFO]: Preparing spawn area: 86%
+[21:52:12] [Server thread/INFO]: Preparing spawn area: 88%
+[21:52:14] [Server thread/INFO]: Preparing spawn area: 88%
+[21:52:15] [Server thread/INFO]: Preparing spawn area: 89%
+[21:52:16] [Server thread/INFO]: Preparing spawn area: 91%
+[21:52:17] [Server thread/INFO]: Preparing spawn area: 92%
+[21:52:18] [Server thread/INFO]: Preparing spawn area: 93%
+[21:52:20] [Server thread/INFO]: Preparing spawn area: 94%
+[21:52:21] [Server thread/INFO]: Preparing spawn area: 96%
+[21:52:22] [Server thread/INFO]: Preparing spawn area: 97%
+[21:52:23] [Server thread/INFO]: Preparing spawn area: 99%
+[21:52:36] [Server thread/INFO]: AshleyW_[local:E:3ee947c4] logged in with entity id 106 at (180.5, 8.0, -34.5)
+[21:52:36] [Server thread/INFO]: AshleyW_ joined the game
+[21:52:56] [Client thread/INFO]: [CHAT] [HEE] Ender Compendium key conflicts with Night Vision, please fix the issue in Controls menu.
+[21:55:15] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[21:56:50] [Server thread/INFO]: Saving and pausing game...
+[21:56:50] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Overworld
+[21:56:51] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Nether
+[21:56:51] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Soul Network Dimension
+[21:56:51] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/The Last Millenium
+[21:56:51] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Outer Lands
+[21:56:51] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/SpectreWorld
+[21:56:51] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Pocket Plane
+[21:58:57] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[22:00:54] [Server thread/INFO]: AshleyW_ has just earned the achievement [Taking Inventory]
+[22:00:54] [Client thread/INFO]: [CHAT] AshleyW_ has just earned the achievement [Taking Inventory]
+[22:01:02] [Server thread/INFO]: Saving and pausing game...
+[22:01:02] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Overworld
+[22:01:03] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Nether
+[22:01:03] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Soul Network Dimension
+[22:01:03] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/The Last Millenium
+[22:01:03] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Outer Lands
+[22:01:03] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/SpectreWorld
+[22:01:03] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Pocket Plane
+[22:01:09] [Server thread/INFO]: Saving and pausing game...
+[22:01:09] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Overworld
+[22:01:09] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Nether
+[22:01:09] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Soul Network Dimension
+[22:01:09] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/The Last Millenium
+[22:01:09] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Outer Lands
+[22:01:09] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/SpectreWorld
+[22:01:09] [Server thread/INFO]: Saving chunks for level 'Copy of Undermine'/Pocket Plane
+[22:01:17] [Server thread/INFO]: [AshleyW_: Given [Daylight Sensor] * 1 to AshleyW_]
+[22:01:18] [Client thread/INFO]: [CHAT] Given [Daylight Sensor] * 1 to AshleyW_
+[22:01:36] [Server thread/INFO]: [AshleyW_: Given [Unnamed Block, report to mod author.] * 1 to AshleyW_]
+[22:01:37] [Client thread/INFO]: [CHAT] Given [Unnamed Block, report to mod author.] * 1 to AshleyW_
+[22:02:27] [Server thread/INFO]: [AshleyW_: Given [Stone] * 1 to AshleyW_]
+[22:02:27] [Client thread/INFO]: [CHAT] Given [Stone] * 1 to AshleyW_
+[22:02:57] [Server thread/INFO]: [AshleyW_: Given [Granite] * 1 to AshleyW_]
+[22:02:57] [Client thread/INFO]: [CHAT] Given [Granite] * 1 to AshleyW_
+[22:02:58] [Server thread/INFO]: [AshleyW_: Given [Diorite] * 1 to AshleyW_]
+[22:02:58] [Client thread/INFO]: [CHAT] Given [Diorite] * 1 to AshleyW_
+[22:02:59] [Server thread/INFO]: [AshleyW_: Given [Andesite] * 1 to AshleyW_]
+[22:02:59] [Client thread/INFO]: [CHAT] Given [Andesite] * 1 to AshleyW_
+[22:04:20] [Server thread/INFO]: [AshleyW_: Given [Marble] * 1 to AshleyW_]
+[22:04:20] [Client thread/INFO]: [CHAT] Given [Marble] * 1 to AshleyW_
+[22:05:18] [Server thread/INFO]: [AshleyW_: Given [Basalt] * 1 to AshleyW_]
+[22:05:18] [Client thread/INFO]: [CHAT] Given [Basalt] * 1 to AshleyW_
+[22:07:03] [Client thread/INFO]: Warning: Clientside chunk ticking took 226 ms
+[22:20:05] [Server thread/INFO]: [AshleyW_: Given [Prismarine] * 1 to AshleyW_]
+[22:20:05] [Client thread/INFO]: [CHAT] Given [Prismarine] * 1 to AshleyW_
+[22:20:08] [Server thread/INFO]: [AshleyW_: Given [Prismarine] * 1 to AshleyW_]
+[22:20:08] [Client thread/INFO]: [CHAT] Given [Prismarine] * 1 to AshleyW_
+[22:24:06] [Server thread/INFO]: [AshleyW_: Given [Limestone] * 1 to AshleyW_]
+[22:24:06] [Client thread/INFO]: [CHAT] Given [Limestone] * 1 to AshleyW_
+[22:24:15] [Server thread/INFO]: [AshleyW_: Given [Andesite] * 1 to AshleyW_]
+[22:24:16] [Client thread/INFO]: [CHAT] Given [Andesite] * 1 to AshleyW_
+[22:24:26] [Server thread/INFO]: [AshleyW_: Given [Granite] * 1 to AshleyW_]
+[22:24:26] [Client thread/INFO]: [CHAT] Given [Granite] * 1 to AshleyW_
+[22:26:02] [Server thread/INFO]: [AshleyW_: Given [Diorite] * 1 to AshleyW_]
+[22:26:02] [Client thread/INFO]: [CHAT] Given [Diorite] * 1 to AshleyW_
+[22:26:55] [Server thread/INFO]: [AshleyW_: Given [Prismarine] * 1 to AshleyW_]
+[22:26:55] [Client thread/INFO]: [CHAT] Given [Prismarine] * 1 to AshleyW_
+[22:28:10] [Server thread/INFO]: [AshleyW_: Given [Basalt] * 1 to AshleyW_]
+[22:28:10] [Client thread/INFO]: [CHAT] Given [Basalt] * 1 to AshleyW_

@@ -1,0 +1,48 @@
+{
+    "quarriedStone": {
+        "template": "uniform",
+        "block": {"name": "Railcraft:cube", "metadata": 7},
+        "clusterSize": 16,
+        "numClusters": 4,
+        "minHeight": 128,
+        "maxHeight": 192,
+        "retrogen": true,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "abyssalStone": {
+        "template": "uniform",
+        "block": {"name": "Railcraft:cube", "metadata": 6},
+        "crust": {"name": "Railcraft:cube", "metadata": 6},
+        "hollow": true,
+        "filler": [
+            {"name": "Railcraft:ore", "metadata": 2, "weight": 10},
+            {"name": "Railcraft:ore", "metadata": 3, "weight": 10},
+            {"name": "Railcraft:ore", "metadata": 4, "weight": 50},
+            {"name": "arsmagica2:vinteumOre", "metadata": 4, "weight": 10},
+            {"name": "ThermalFoundation:FluidPetrotheum", "metadata": 0, "weight": 20}
+        ],
+        "numClusters": 1,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": true,
+        "biomeRestriction": false,
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    }
+}

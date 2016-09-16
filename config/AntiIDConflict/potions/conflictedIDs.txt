@@ -1,0 +1,19 @@
+Total amount of conflicted potion ids: 16
+IDs in conflict:
+
+50 is asked by: Legendary Mana Restoration (am2.buffs.ManaPotion), Vampiric Aura (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
+51 is asked by: Gravity Well (am2.buffs.ArsMagicaPotion), Bleeding (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
+52 is asked by: Levitation (am2.buffs.ArsMagicaPotion), Swimming (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
+53 is asked by: Clarity (am2.buffs.ArsMagicaPotion), Soul Burn (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
+100 is asked by: witchery:potion.repellattacker (com.emoniph.witchery.brewing.potions.PotionRepellAttacker), Drowning (WayofTime.alchemicalWizardry.common.potion.PotionDrowning)
+101 is asked by: witchery:potion.stoutbelly (com.emoniph.witchery.brewing.potions.PotionStoutBelly), Boost (WayofTime.alchemicalWizardry.common.potion.PotionBoost)
+102 is asked by: witchery:potion.feelnopain (com.emoniph.witchery.brewing.potions.PotionFeelNoPain), Whirlwind (WayofTime.alchemicalWizardry.common.potion.PotionProjectileProtect)
+103 is asked by: witchery:potion.gasmask (com.emoniph.witchery.brewing.potions.PotionGasMask), Inhibit (WayofTime.alchemicalWizardry.common.potion.PotionInhibit)
+104 is asked by: witchery:potion.diseased (com.emoniph.witchery.brewing.potions.PotionDiseased), Flight (WayofTime.alchemicalWizardry.common.potion.PotionFlight)
+105 is asked by: witchery:potion.fortune (com.emoniph.witchery.brewing.potions.PotionFortune), Reciprocation (WayofTime.alchemicalWizardry.common.potion.PotionReciprocation)
+106 is asked by: witchery:potion.worship (com.emoniph.witchery.brewing.potions.PotionWorship), Flame Cloak (WayofTime.alchemicalWizardry.common.potion.PotionFlameCloak)
+107 is asked by: witchery:potion.keepeffects (com.emoniph.witchery.brewing.potions.PotionKeepEffectsOnDeath), Ice Cloak (WayofTime.alchemicalWizardry.common.potion.PotionIceCloak)
+108 is asked by: witchery:potion.wolfsbane (com.emoniph.witchery.brewing.potions.PotionBase), Heavy Heart (WayofTime.alchemicalWizardry.common.potion.PotionHeavyHeart)
+115 is asked by: Demon Cloaking (WayofTime.alchemicalWizardry.common.potion.PotionDemonCloak), AddHeart (tombenpotter.sanguimancy.potion.PotionAddHeart)
+116 is asked by: Amphibian (WayofTime.alchemicalWizardry.common.potion.PotionAmphibian), RemoveHeart (tombenpotter.sanguimancy.potion.PotionRemoveHeart)
+128 is asked by: Red Curse (pixlepix.auracascade.potions.PotionRedCurse), Orange Curse (pixlepix.auracascade.potions.PotionOrangeCurse), Yellow Curse (pixlepix.auracascade.potions.PotionYellowCurse), Green Curse (pixlepix.auracascade.potions.PotionGreenCurse), Blue Curse (pixlepix.auracascade.potions.PotionBlueCurse), Violet Curse (pixlepix.auracascade.potions.PotionVioletCurse)

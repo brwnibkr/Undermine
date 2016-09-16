@@ -1,0 +1,1038 @@
+ERROR: system: Anvil is already defined in that package
+ERROR: system: Casting is already defined in that package
+ERROR: system: Crucible is already defined in that package
+ERROR: system: Fishing is already defined in that package
+ERROR: system: Vat is already defined in that package
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command tooltips
+INFO: Adding minetweaker command entities
+INFO: Adding minetweaker command appeng
+INFO: Adding minetweaker command auras
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command railcraft
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command modifiers
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command research
+INFO: Adding minetweaker command aspectList
+INFO: Adding minetweaker command mfr
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Blood Altar
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Blood Rune
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Augmented Capacity
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Dislocation
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of the Orb
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Superior Capacity
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Acceleration
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Life Essence
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Speed Rune
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Sacrifice
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Self-Sacrifice
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ritual Stone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Master Ritual Stone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Filled Socket
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Imperfect Ritual Stone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Soul Armour Forge
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Empty Socket
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Bloodstone Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Large Bloodstone Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Alchemic Chemistry Set
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Spell Table
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Arcane Pedestal
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Arcane Plinth
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Teleposer
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Blood Light
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Spell Conduit
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Particle Generator
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Self Augmentator
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Melee Aggregator
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tool Forger
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Unstable Spell Empowerer
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Standard Spell Empowerer
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Reinforced Spell Empowerer
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Imbued Spell Augmentor
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Default Spell Modifier
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Offensive Spell Modifier
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Defensive Spell Modifier
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Environmental Spell Modifier
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crucible of Fire
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ice Maker
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Wind Generator
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Earth Former
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Demon Portal
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Alchemy Relay
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Alchemic Calcinator
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crystal Belljar
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Demon's Chest
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crystal Cluster
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crystal Cluster Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Glyph of the Adept Enchanter
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Glyph of Arcane Potential
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Glyph of Rigid Stability
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Incense Crucible
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Apprentice Blood Orb
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Lava Crystal
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Water Sigil
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Lava Sigil
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Void Sigil
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Blank Slate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Reinforced Slate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sacrificial Orb
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Dagger of Sacrifice
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Air Sigil
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sigil of the Fast Miner
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sigil of Elemental Affinity
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sigil of Haste
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sigil of Holding
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Divination Sigil
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elemental Inscription Tool: Water
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elemental Inscription Tool: Fire
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elemental Inscription Tool: Earth
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elemental Inscription Tool: Air
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Weak Activation Crystal
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Awakened Activation Crystal
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Bound Helmet
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Bound Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Bound Leggings
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Bound Boots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Weak Blood Shard
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sigil of the Green Grove
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Unbound Crystal
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Master Blood Orb
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Potion Flask
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Standard Binding Agent
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mundane Power Catalyst
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Average Power Catalyst
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Greater Power Catalyst
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mundane Lengthening Catalyst
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Average Lengthening Catalyst
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Greater Lengthening Catalyst
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Incendium
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Magicales
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sanctus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Aether
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Simple Catalyst
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crepitous
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crystallos
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Terrae
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Aquasalus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tenebrae
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Demon Blood Shard
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Archmage's Blood Orb
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Transcendent Blood Orb
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sigil of the Whirlwind
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Teleposition Focus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Enhanced Teleposition Focus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Reinforced Teleposition Focus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Demonic Teleposition Focus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Imbued Slate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Demonic Slate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elemental Inscription Tool: Dusk
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sigil of the Phantom Bridge
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Armour Inhibitor
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Demon Crystal
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Weak Filling Agent
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Standard Filling Agent
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Enhanced Filling Agent
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Weak Binding Agent
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ritual Diviner
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ritual Diviner
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ritual Diviner
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sigil of Magnetism
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Key of Binding
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Energy Bazooka
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sigil of the Blood Lamp
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Complex Spell Crystal
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sigil of Supression
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sigil of Ender Severance
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sigil of Sight
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Bucket of Life
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Alchemic Cleanser
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Magicales Cable
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Wooden Brace
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Stone Brace
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Projectile Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Self Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Melee Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Paradigm Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Output Spell Cable
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fire Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Icy Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Gusty Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Earthen Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Input Spell Cable
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Cracked Runic Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Runic Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Imbued Runic Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Unattuned Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Offensive Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Defensive Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Environmental Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Power Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Reduction Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Potency Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Obsidian Brace
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tool Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ethereal Slate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Life Shard
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Soul Shard
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Soul Runic Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Living Brace
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ender Shard
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Offensa
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Praesidium
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Orbis Terrae
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Strengthened Catalyst
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Concentrated Catalyst
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fractured Bone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Virtus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Reductus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Potentia
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elemental Inscription Tool: Dawn
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Blood Letter's Pack
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Harvest Goddess Sigil
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sigil of Compression
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Water Omega Helmet
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Water Omega Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Water Omega Leggings
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Water Omega Boots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Earth Omega Helmet
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Earth Omega Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Earth Omega Leggings
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Earth Omega Boots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Wind Omega Helmet
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Wind Omega Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Wind Omega Leggings
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Wind Omega Boots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fire Omega Helmet
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fire Omega Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fire Omega Leggings
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fire Omega Boots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Input Routing Focus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Default Output Routing Focus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Output Routing Focus (ModItem)
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Output Routing Focus (Ignore Meta)
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Output Routing Focus (MatchNBT)
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Output Routing Focus (Global)
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Wood Ash
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Byrrus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Livens
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Viridis
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Purpura
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mail Order Catalogue
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical White Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical Orange Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical Magenta Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical Light Blue Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical Yellow Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical Lime Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical Pink Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical Gray Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical Light Gray Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical Cyan Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical Purple Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical Blue Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical Brown Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical Green Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical Red Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical Black Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Petal Apothecary
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Forest Petal Apothecary
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Plains Petal Apothecary
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mountain Petal Apothecary
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fungal Petal Apothecary
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Swamp Petal Apothecary
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Desert Petal Apothecary
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Taiga Petal Apothecary
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mesa Petal Apothecary
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Livingrock
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Livingrock Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mossy Livingrock Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Cracked Livingrock Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Livingrock Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Livingwood
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Livingwood Planks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mossy Livingwood Planks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Framed Livingwood
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Pattern Framed Livingwood
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Glimmering Livingwood
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Botania Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Spreader
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Pulse Mana Spreader
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elven Mana Spreader
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Gaia Mana Spreader
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Pool
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Diluted Mana Pool
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fabulous Mana Pool
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for The Everlasting Guilty Pool
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Runic Altar
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for White Unstable Cube
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Pylon
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Natura Pylon
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Gaia Pylon
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Force Relay
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Distributor
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for White Unstable Beacon
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Void
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Detector
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Enchanter
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Spreader Turntable
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tiny Planet
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Alchemy Catalyst
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Open Crate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crafty Crate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Eye of the Ancients
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Block of Manasteel
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Block of Terrasteel
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Block of Elementium
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Block of Mana Diamond
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Block of Dragonstone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Drum of the Wild
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Drum of the Gathering
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Drum of the Canopy
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Abstruse Platform
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Spectral Platform
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elven Gateway Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Dreamwood
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Dreamwood Planks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mossy Dreamwood Planks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Framed Dreamwood
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Pattern Framed Dreamwood
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Glimmering Dreamwood
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Conjuration Catalyst
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Temporary Bifrost Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for tile.botania:solidVine.name
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Buried White Petal
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Prismarine
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Prismarine Bricks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Dark Prismarine
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sea Lantern
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for tile.botania:miniIsland32767.name
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tiny Potato
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Life Imbuer
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Reed Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Thatch
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for tile.botania:customBrick32767.name
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Hellish Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Soul Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Frosty Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Roof Tile
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ender Overseer
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Starfield Creator
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Fluxfield
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Alfglass
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Botanical Brewery
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Managlass
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Terrestrial Agglomeration Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Red Stringed Container
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Red Stringed Dispenser
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Red Stringed Nutrifier
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Red Stringed Comparator
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Red Stringed Spoofer
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Floating Botania Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Flash
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Prism
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Trodden Dirt
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Enchanted Soil
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for White Petal Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Corporea Index
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Corporea Funnel
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for End Stone Bricks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled End Stone Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ender Bricks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Pillar Ender Bricks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for tile.botania:mushroom32767.name
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Pump
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tall Mystical White Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tall Mystical Orange Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tall Mystical Magenta Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tall Mystical Light Blue Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tall Mystical Yellow Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tall Mystical Lime Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tall Mystical Pink Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tall Mystical Gray Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tall Mystical White Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tall Mystical Orange Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tall Mystical Magenta Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tall Mystical Light Blue Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tall Mystical Yellow Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tall Mystical Lime Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tall Mystical Pink Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tall Mystical Gray Flower
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Blaze Lamp
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Corporea Interceptor
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Corporea Crystal Cube
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Incense Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Hovering Hourglass
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Spectral Rail
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Spark Tinkerer
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Living Root
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fel Pumpkin
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Cocoon of Caprice
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Luminizer
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Detector Luminizer
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Luminizer Launcher
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manastorm Charge
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Cacophonium Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manatide Bellows
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Bifrost Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Cellular Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Red Stringed Interceptor
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Corporea Retainer
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Teru Teru Bozu
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Shimmerrock
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Shimmerwood Planks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Livingwood Avatar
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Dry Grass
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Forest Stone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Plains Stone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Mountain Stone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Fungal Stone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Swamp Stone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Desert Stone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Taiga Stone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Mesa Stone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Forest Cobblestone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Plains Cobblestone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Mountain Cobblestone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Fungal Cobblestone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Swamp Cobblestone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Desert Cobblestone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Taiga Cobblestone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Mesa Cobblestone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Forest Stone Bricks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Plains Stone Bricks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Mountain Stone Bricks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Fungal Stone Bricks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Swamp Stone Bricks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Desert Stone Bricks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Taiga Stone Bricks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Metamorphic Mesa Stone Bricks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Metamorphic Forest Stone Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Metamorphic Plains Stone Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Metamorphic Mountain Stone Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Metamorphic Fungal Stone Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Metamorphic Swamp Stone Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Metamorphic Desert Stone Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Metamorphic Taiga Stone Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Metamorphic Mesa Stone Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for tile.botania:stone32767.name
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Basalt
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Polished Basalt
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Basalt Bricks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Andesite Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Basalt Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Diorite Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Granite Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for White Portuguese Pavement
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for tile.botania:pavement32767.name
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Mana Quartz Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Blaze Quartz Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Lavender Quartz Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Redquartz Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Elven Quartz Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Sunny Quartz Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ender Brick Stairs
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Basalt Wall
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Lexica Botania
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mystical Petals
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Pestle and Mortar
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Wand of the Forest
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manasteel Ingot
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Pearl
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Diamond
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Livingwood Twig
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Terrasteel Ingot
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Gaia Spirit
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Redstone Root
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elementium Ingot
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Pixie Dust
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Dragonstone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Prismarine Shard
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crafting Placeholder
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Red String
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Dreamwood Twig
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Gaia Spirit Ingot
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ender Air Bottle
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Infused String
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manasteel Nugget
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Terrasteel Nugget
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elementium Nugget
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manaweave Cloth
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Powder
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Velocity
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Potency
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Resistance
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Efficiency
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Bounce
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Gravity
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Bore
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Damaging
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Phantom
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Magnetizing
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Entropic
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Influence
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Weight
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Paintslinger
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Kindle
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Force
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Flash
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Warp
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Redirective
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Celebratory
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Lens: Flare
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Water
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Fire
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Earth
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Air
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Spring
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Summer
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Autumn
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Winter
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Mana
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Lust
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Gluttony
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Greed
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Sloth
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Wrath
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Envy
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rune of Pride
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Signal Flare
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Tablet
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Blaster
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Biscuit of Totality
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Floral Fertilizer
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Pasture Seeds
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Boreal Seeds
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Infestation Spores
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Dry Pasture Seeds
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Golden Pasture Seeds
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Vivid Pasture Seeds
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Scorched Pasture Seeds
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Infused Pasture Seeds
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mutated Pasture Seeds
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rod of the Lands
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rod of the Terra Firma
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Horn of the Wild
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Horn of the Canopy
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Horn of the Covering
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Mirror
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manasteel Helmet
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manasteel Helmet of Revealing
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manasteel Chestplate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manasteel Leggings
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manasteel Boots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manasteel Pickaxe
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manasteel Shovel
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manasteel Axe
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manasteel Sword
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manasteel Shears
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Terrasteel Helmet
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Terrasteel Helmet of Revealing
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Terrasteel Chestplate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Terrasteel Leggings
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Terrasteel Boots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Terra Blade
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Band of Mana
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Greater Band of Mana
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Soujourner's Sash
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tectonic Girdle
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Snowflake Pendant
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Pyroclast Pendant
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Golden Laurel Crown
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ring of Magnetization
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ring of Chordata
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ring of the Mantle
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Terra Shatterer
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Charm of the Diva
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Flügel Tiara
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Soulscribe
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Smokey Quartz
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana Quartz
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Blaze Quartz
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Lavender Quartz
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Redquartz
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elven Quartz
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sunny Quartz
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rod of the Seas
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elementium Helmet
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elementium Helmet of Revealing
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elementium Chestplate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elementium Leggings
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elementium Boots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elementium Pickaxe
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elementium Shovel
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elementium Axe
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elementium Sword
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Elementium Shears
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Extrapolated Bucket
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Life Aggregator
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Great Fairy Ring
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Globetrotter's Sash
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rod of the Bifrost
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rod of the Skies
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rod of the Hells
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Vine Ball
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Livingwood Slingshot
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mana in a Bottle
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Shard of Laputa
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Shard of Laputa
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Shard of Laputa
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Shard of Laputa
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Shard of Laputa
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Necrodermal Virus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Nullodermal Virus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ring of Far Reach
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rod of the Highlands
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for The Spectator
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crimson Pendant
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Hand of Ender
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Vitreous Pickaxe
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Spark
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Spark Augment: Dispersive
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Spark Augment: Dominant
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Spark Augment: Recessive
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Spark Augment: Isolated
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rod of the Plentiful Mantle
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rod of the Shaded Mesa
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Timeless Ivy
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Botanurgist's Inkwell
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Managlass Vial
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Alfglass Flask
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Vial of Fallback (§l4§r)
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Flask of Fallback (§l6§r)
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tainted Blood Pendant
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rod of the Unstable Reservoir
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Cloak of Virtue
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Cloak of Sin
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Assembly Halo
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Black Lotus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Blacker Lotus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manaseer Monocle
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Lens Clip
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rod of the Depths
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rod of the Molten Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for World Seed
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Spellbinding Cloth
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Thorn Chakram
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Flare Chakram
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Overgrowth Seed
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crafting Pattern #1: 1x1
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crafting Pattern #2: 2x2
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crafting Pattern #3: 1x2
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crafting Pattern #4: 2x1
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crafting Pattern #5: 1x3
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crafting Pattern #6: 3x1
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crafting Pattern #7: 2x3
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crafting Pattern #8: 3x2
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crafting Pattern #9: Donut
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Will of Ahrim
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Will of Dharok
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Will of Guthan
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Will of Torag
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Will of Verac
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Will of Karil
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Corporea Spark
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Master Corporea Spark
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Livingwood Bow
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crystal Bow
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for item.botania:cosmetic32767.name
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ring of Correction
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Flower Pouch
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Phantom Ink
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Minecart with Mana Pool
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for The Pinkinator
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for The Fruit of Grisaia
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Key of the King's Law
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Eye of the Flügel
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ring of Thor
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ring of Odin
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ring of Loki
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Dice of Fate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Resolute Ivy
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Black Hole Talisman
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Scathed Music Disc
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Scathed Music Disc
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Stone of Temperance
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Incense Stick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Terra Truncator
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Bowl of Water
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Floral Obedience Stick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Cacophonium
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Slime in a Bottle
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Starcaller
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rod of the Shifting Crust
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Greater Ring of Magnetization
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Thundercaller
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manaweave Cowl
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manaweave Robe Bottom
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manaweave Robe Top
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manaweave Boots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Manufactory Halo
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Gaia Guardian's Head
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Worldshaper's Sextant
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Planestrider's Sash
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Bauble Case
+INFO: Adding recipe for Necrotic Bone
+INFO: Adding recipe for Green Heart Canister
+INFO: Adding recipe for Green Heart Canister
+INFO: Adding recipe for Miniature Green Heart
+INFO: Adding recipe for Chest
+INFO: Removing 1 recipes
+INFO: Adding recipe for Chest Cart
+INFO: Adding recipe for Iron Chest
+INFO: Removing 1 recipes
+INFO: Adding recipe for Minecart with Iron Chest
+INFO: Adding recipe for Gold Chest
+INFO: Removing 1 recipes
+INFO: Adding recipe for Minecart with Gold Chest
+INFO: Adding recipe for Diamond Chest
+INFO: Removing 1 recipes
+INFO: Adding recipe for Minecart with Diamond Chest
+INFO: Adding recipe for Copper Chest
+INFO: Removing 1 recipes
+INFO: Adding recipe for Minecart with Copper Chest
+INFO: Adding recipe for Silver Chest
+INFO: Removing 1 recipes
+INFO: Adding recipe for Minecart with Silver Chest
+INFO: Adding recipe for Crystal Chest
+INFO: Removing 1 recipes
+INFO: Adding recipe for Minecart with Crystal Chest
+INFO: Adding recipe for Obsidian Chest
+INFO: Removing 1 recipes
+INFO: Adding recipe for Minecart with Obsidian Chest
+INFO: Adding recipe for DirtChest 9000!
+INFO: Removing 1 recipes
+INFO: Adding recipe for Minecart with Dirt Chest 9000!
+INFO: Adding recipe for Furnace
+INFO: Removing 1 recipes
+INFO: Adding recipe for Furnace Cart
+INFO: Adding recipe for TNT
+INFO: Removing 1 recipes
+INFO: Adding recipe for TNT Cart
+INFO: Adding recipe for Hopper
+INFO: Removing 1 recipes
+INFO: Adding recipe for Hopper Cart
+INFO: Adding recipe for Command Block
+INFO: Removing 0 recipes
+INFO: Adding recipe for Minecart with Command Block
+INFO: Adding recipe for Ender Chest
+INFO: Removing 1 recipes
+INFO: Adding recipe for Minecart with Ender Chest
+INFO: Adding recipe for Minecart with Iron Chest
+INFO: Adding recipe for Minecart with Gold Chest
+INFO: Adding recipe for Minecart with Copper Chest
+INFO: Adding recipe for Minecart with Silver Chest
+INFO: Adding recipe for Minecart with Crystal Chest
+INFO: Adding recipe for Minecart with Obsidian Chest
+INFO: Adding recipe for Minecart with Dirt Chest 9000!
+INFO: Adding recipe for Minecart with Iron Chest
+INFO: Adding recipe for Minecart with Silver Chest
+INFO: Adding recipe for Minecart with Gold Chest
+INFO: Adding recipe for Minecart with Crystal Chest
+INFO: Adding recipe for Minecart with Obsidian Chest
+INFO: Adding recipe for Minecart with Diamond Chest
+INFO: Adding recipe for Minecart with Diamond Chest
+INFO: Translating item.seeds.name to Wheat Seeds
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for §6Weak Infusion Stone
+INFO: Adding recipe for Regular Infusion Stone
+INFO: Adding recipe for §bStrong Infusion Stone
+INFO: Adding recipe for Extreme Infusion Stone
+INFO: Adding recipe for §4Master Infusion Stone
+INFO: Adding mutation 'Carrot Seeds = Wheat Seeds + Wheat Seeds'
+INFO: Adding mutation 'Coal Seeds = Minicio Seeds + Potato Seeds'
+INFO: Adding mutation 'Certus Quartz Seeds = Coal Seeds + Quartz Seeds'
+INFO: Adding mutation 'Quartz Seeds = Coal Seeds + Carrot Seeds'
+INFO: Adding mutation 'Iron Seeds = Coal Seeds + Quartz Seeds'
+INFO: Adding mutation 'Lapis Lazuli Seeds = Certus Quartz Seeds + Iron Seeds'
+INFO: Adding mutation 'Redstone Seeds = Lapis Lazuli Seeds + Iron Seeds'
+INFO: Adding mutation 'Gold Seeds = Redstone Seeds + Lapis Lazuli Seeds'
+INFO: Adding mutation 'Diamond Seeds = Gold Seeds + Redstone Seeds'
+INFO: Adding mutation 'Emerald Seeds = Diamond Seeds + Gold Seeds'
+INFO: Adding mutation 'Cobalt Seeds = Emerald Seeds + Lapis Lazuli Seeds'
+INFO: Adding mutation 'Ardite Seeds = Emerald Seeds + Diamond Seeds'
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Purpur Block
+INFO: Removing 1 recipes
+INFO: Adding recipe for Purpur Stairs
+INFO: Removing 1 recipes
+INFO: Adding recipe for Purpur Slab
+INFO: Removing 1 recipes
+INFO: Moving Research PUREORE to ALCHEMY
+INFO: Clearing Prerequisites for PUREORE
+INFO: Adding Prerequisites to PUREORE
+INFO: Removing Research Tab: AOBD
+INFO: Moving Research RC_Crowbar to ARTIFICE
+INFO: Clearing Prerequisites for RC_Crowbar
+INFO: Adding Prerequisites to RC_Crowbar
+INFO: Moving Research RC_Crowbar_Void to ELDRITCH
+INFO: Clearing Prerequisites for RC_Crowbar_Void
+INFO: Adding Prerequisites to RC_Crowbar_Void
+INFO: Adding Prerequisites to RC_Crowbar_Void
+INFO: Removing Research Tab: RAILCRAFT
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Roots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Liveroots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Firefly
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Cicada
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Twilight Forest Portal
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mazestone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mazestone Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Chiseled Mazestone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Decorative Mazestone Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Cracked Mazestone Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mossy Mazestone Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mazestone Mosaic
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mazestone Border
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Hedge
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Firefly Jar
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Moss Patch
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mayapple
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fiddlehead
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mushgloom
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Forest Grass
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Dried Bush
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Torchberry Plant
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Root Strands
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Uncrafting Table
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Smoking block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fire Jet
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Encased Smoker
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Encased Fire Jet
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Nagastone Head
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Nagastone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sickly Twilight Oak Sapling
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tree of Time Sapling
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tree of Transformation Sapling
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Miner's Tree Sapling
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sorting Tree Sapling
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Rainbow Oak Sapling
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Moonworm
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Timewood Clock
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Heart of Transformation
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Minewood Core
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Sortingwood Engine
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Towerwood Planks
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Encased Towerwood
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Cracked Towerwood
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mossy Towerwood
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Infested Towerwood
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Reappearing Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Vanishing Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Locked Vanishing Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Unlocked Vanishing Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Carminite Builder
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Anti-builder
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ghast Trap
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Carminite Reactor
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Stronghold Shield
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Latent Trophy Pedestal
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Trophy Pedestal
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Aurora Block
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Underbrick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mossy Underbrick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Cracked Underbrick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Thorns
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Green Thorns
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Burnt Thorns
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Thorn Rose
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Thorn Leaves
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Beanstalk Leaves
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Weathered Deadrock
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Cracked Deadrock
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Deadrock
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Darkwood Leaves
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Aurora Pillar
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Aurora Slab
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Aurora Slab
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Trollsteinn
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Wispy Cloud
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fluffy Cloud
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Giant Cobblestone
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Giant Log
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Giant Leaves
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Giant Obsidian
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Uberous Soil
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Huge Stalk
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for tile.TFPlant.0.name
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Trollvidr
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Unripe Trollber
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Trollber
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Block of Knightmetal
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Huge Lily Pad
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Huge Water Lily
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Slide Trap
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Slide Trap 1
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Slide Trap 2
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Slide Trap 3
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Castle Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Worn Castle Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Cracked Castle Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Castle Roof Tile
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Pink Castle Rune Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Blue Castle Rune Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Yellow Castle Rune Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Violet Castle Rune Brick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Violet Force Field
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Pink Force Field
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Orange Force Field
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Green Force Field
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Blue Force Field
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Naga Scale
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Naga Scale Tunic
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Naga Scale Leggings
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Scepter of Twilight
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Scepter of Life Draining
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Zombie Scepter
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ore Meter [WIP]
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Magic Map #0
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Maze Map #0
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Maze/Ore Map #0
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Raven's Feather
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Magic Map Focus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Maze Map Focus
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Liveroot
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Raw Ironwood Materials
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ironwood Ingot
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ironwood Helm
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ironwood Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ironwood Legs
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ironwood Boots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ironwood Sword
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ironwood Shovel
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ironwood Pick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ironwood Axe
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ironwood Hoe
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Torchberries
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Raw Venison
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Venison Steak
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Hydra Chop
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fiery Blood
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Hydra Trophy
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for tile.TFTrophy.0.name
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Naga Trophy
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for tile.TFTrophy.1.name
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Lich Trophy
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for tile.TFTrophy.2.name
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ur-ghast Trophy
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for tile.TFTrophy.3.name
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Snow Queen Trophy
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for tile.TFTrophy.4.name
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fiery Ingot
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fiery Helm
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fiery Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fiery Legs
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fiery Boots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fiery Sword
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fiery Pick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Steeleaf
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Steeleaf Helm
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Steeleaf Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Steeleaf Legs
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Steeleaf Boots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Steeleaf Sword
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Steeleaf Shovel
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Steeleaf Pick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Steeleaf Axe
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Steeleaf Hoe
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Minotaur Axe
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Mazebreaker
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Transformation Powder
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Raw Meef
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Meef Steak
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Meef Stroganoff
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Maze Wafer
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Blank Magic Map
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Blank Maze Map
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Blank Maze/Ore Map
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ore Magnet
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Crumble Horn
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Peacock Feather Fan
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Moonworm Queen
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Charm of Life I
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Charm of Life II
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Charm of Keeping I
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Charm of Keeping II
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Charm of Keeping III
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tower Key
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Borer Essence
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Carminite
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Experiment 115
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Armor Shard
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Knightmetal Ingot
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Armor Shard Cluster
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Knightly Helm
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Knightly Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Knightly Greaves
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Knightly Boots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Knightly Sword
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Knightly Pick
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Knightly Axe
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Phantom Helm
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Phantom Plate
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Lamp of Cinders
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Fiery Tears
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Alpha Yeti Fur
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Yeti Horned Helm
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Yeti Jacket
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Yeti Leggings
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Yeti Boots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ice Bomb
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Arctic Fur
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Arctic Hood
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Arctic Jacket
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Arctic Leggings
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Arctic Boots
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Magic Beans
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Giant's Pickaxe
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Giant's Sword
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Tri-bow
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Seeker Bow
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ice Bow
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ender Bow
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Ice Sword
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Glass Sword
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Knightmetal Loop
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Block and Chain
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Cube of Annihilation
+INFO: Adding minetweaker command tooltips
+INFO: Adding minetweaker command entities
+INFO: Adding minetweaker command appeng
+INFO: Adding minetweaker command auras
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command railcraft
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command modifiers
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command research
+INFO: Adding minetweaker command aspectList
